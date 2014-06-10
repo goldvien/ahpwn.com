@@ -1,0 +1,2448 @@
+[09.26.2011 - 20:31:01] ---- SESSION BEGIN ----
+[09.26.2011 - 20:31:01] Established database connection
+[09.26.2011 - 20:31:01] Latest JSON dump is 1317083404
+[09.26.2011 - 20:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317083404.json
+[09.26.2011 - 20:31:01] Opened up the JSON file successfully
+[09.26.2011 - 20:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.26.2011 - 20:31:01] Done parsing through the file
+[09.26.2011 - 20:31:01] Converted array into string for JSON decoding preparation
+[09.26.2011 - 20:31:01] Begin JSON decode of auctionsString
+[09.26.2011 - 20:31:02] JSON decoding complete
+[09.26.2011 - 20:31:02] There are 24709 elements in the auction array
+[09.26.2011 - 20:31:02] Starting to insert all auctions into the database
+[09.26.2011 - 20:31:15] Added 24709 auctions into the database
+[09.26.2011 - 20:31:15] Telling MASTER CONTROL to put the parser program on standby
+[09.26.2011 - 20:31:15] Parser completed in 14.09 seconds
+[09.26.2011 - 20:31:15] ---- SESSION END ----
+[09.26.2011 - 21:46:01] ---- SESSION BEGIN ----
+[09.26.2011 - 21:46:01] Established database connection
+[09.26.2011 - 21:46:01] Latest JSON dump is 1317087904
+[09.26.2011 - 21:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317087904.json
+[09.26.2011 - 21:46:01] Opened up the JSON file successfully
+[09.26.2011 - 21:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.26.2011 - 21:46:01] Done parsing through the file
+[09.26.2011 - 21:46:01] Converted array into string for JSON decoding preparation
+[09.26.2011 - 21:46:01] Begin JSON decode of auctionsString
+[09.26.2011 - 21:46:02] JSON decoding complete
+[09.26.2011 - 21:46:02] There are 24242 elements in the auction array
+[09.26.2011 - 21:46:02] Starting to insert all auctions into the database
+[09.26.2011 - 21:46:15] Added 24242 auctions into the database
+[09.26.2011 - 21:46:15] Telling MASTER CONTROL to put the parser program on standby
+[09.26.2011 - 21:46:15] Parser completed in 13.95 seconds
+[09.26.2011 - 21:46:15] ---- SESSION END ----
+[09.26.2011 - 22:46:01] ---- SESSION BEGIN ----
+[09.26.2011 - 22:46:01] Established database connection
+[09.26.2011 - 22:46:01] Latest JSON dump is 1317091504
+[09.26.2011 - 22:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317091504.json
+[09.26.2011 - 22:46:01] Opened up the JSON file successfully
+[09.26.2011 - 22:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.26.2011 - 22:46:01] Done parsing through the file
+[09.26.2011 - 22:46:01] Converted array into string for JSON decoding preparation
+[09.26.2011 - 22:46:01] Begin JSON decode of auctionsString
+[09.26.2011 - 22:46:01] JSON decoding complete
+[09.26.2011 - 22:46:01] There are 24238 elements in the auction array
+[09.26.2011 - 22:46:01] Starting to insert all auctions into the database
+[09.26.2011 - 22:46:16] Added 24238 auctions into the database
+[09.26.2011 - 22:46:16] Telling MASTER CONTROL to put the parser program on standby
+[09.26.2011 - 22:46:16] Parser completed in 15.71 seconds
+[09.26.2011 - 22:46:16] ---- SESSION END ----
+[09.26.2011 - 23:46:01] ---- SESSION BEGIN ----
+[09.26.2011 - 23:46:01] Established database connection
+[09.26.2011 - 23:46:01] Latest JSON dump is 1317095104
+[09.26.2011 - 23:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317095104.json
+[09.26.2011 - 23:46:01] Opened up the JSON file successfully
+[09.26.2011 - 23:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.26.2011 - 23:46:01] Done parsing through the file
+[09.26.2011 - 23:46:01] Converted array into string for JSON decoding preparation
+[09.26.2011 - 23:46:01] Begin JSON decode of auctionsString
+[09.26.2011 - 23:46:02] JSON decoding complete
+[09.26.2011 - 23:46:02] There are 24340 elements in the auction array
+[09.26.2011 - 23:46:02] Starting to insert all auctions into the database
+[09.26.2011 - 23:46:16] Added 24340 auctions into the database
+[09.26.2011 - 23:46:16] Telling MASTER CONTROL to put the parser program on standby
+[09.26.2011 - 23:46:16] Parser completed in 14.40 seconds
+[09.26.2011 - 23:46:16] ---- SESSION END ----
+[09.27.2011 - 01:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 01:01:01] Established database connection
+[09.27.2011 - 01:01:01] Latest JSON dump is 1317099604
+[09.27.2011 - 01:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317099604.json
+[09.27.2011 - 01:01:01] Opened up the JSON file successfully
+[09.27.2011 - 01:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 01:01:01] Done parsing through the file
+[09.27.2011 - 01:01:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 01:01:01] Begin JSON decode of auctionsString
+[09.27.2011 - 01:01:01] JSON decoding complete
+[09.27.2011 - 01:01:02] There are 25672 elements in the auction array
+[09.27.2011 - 01:01:02] Starting to insert all auctions into the database
+[09.27.2011 - 01:01:17] Added 25672 auctions into the database
+[09.27.2011 - 01:01:17] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 01:01:17] Parser completed in 16.33 seconds
+[09.27.2011 - 01:01:17] ---- SESSION END ----
+[09.27.2011 - 02:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 02:01:01] Established database connection
+[09.27.2011 - 02:01:01] Latest JSON dump is 1317103204
+[09.27.2011 - 02:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317103204.json
+[09.27.2011 - 02:01:01] Opened up the JSON file successfully
+[09.27.2011 - 02:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 02:01:01] Done parsing through the file
+[09.27.2011 - 02:01:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 02:01:01] Begin JSON decode of auctionsString
+[09.27.2011 - 02:01:02] JSON decoding complete
+[09.27.2011 - 02:01:02] There are 25747 elements in the auction array
+[09.27.2011 - 02:01:02] Starting to insert all auctions into the database
+[09.27.2011 - 02:01:16] Added 25747 auctions into the database
+[09.27.2011 - 02:01:16] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 02:01:16] Parser completed in 14.98 seconds
+[09.27.2011 - 02:01:16] ---- SESSION END ----
+[09.27.2011 - 03:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 03:01:01] Established database connection
+[09.27.2011 - 03:01:01] Latest JSON dump is 1317106803
+[09.27.2011 - 03:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317106803.json
+[09.27.2011 - 03:01:01] Opened up the JSON file successfully
+[09.27.2011 - 03:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 03:01:02] Done parsing through the file
+[09.27.2011 - 03:01:02] Converted array into string for JSON decoding preparation
+[09.27.2011 - 03:01:02] Begin JSON decode of auctionsString
+[09.27.2011 - 03:01:02] JSON decoding complete
+[09.27.2011 - 03:01:02] There are 26158 elements in the auction array
+[09.27.2011 - 03:01:02] Starting to insert all auctions into the database
+[09.27.2011 - 03:01:20] Added 26158 auctions into the database
+[09.27.2011 - 03:01:20] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 03:01:20] Parser completed in 18.78 seconds
+[09.27.2011 - 03:01:20] ---- SESSION END ----
+[09.27.2011 - 04:16:01] ---- SESSION BEGIN ----
+[09.27.2011 - 04:16:01] Established database connection
+[09.27.2011 - 04:16:01] Latest JSON dump is 1317111304
+[09.27.2011 - 04:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317111304.json
+[09.27.2011 - 04:16:01] Opened up the JSON file successfully
+[09.27.2011 - 04:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 04:16:01] Done parsing through the file
+[09.27.2011 - 04:16:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 04:16:01] Begin JSON decode of auctionsString
+[09.27.2011 - 04:16:02] JSON decoding complete
+[09.27.2011 - 04:16:02] There are 25921 elements in the auction array
+[09.27.2011 - 04:16:02] Starting to insert all auctions into the database
+[09.27.2011 - 04:16:17] Added 25921 auctions into the database
+[09.27.2011 - 04:16:17] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 04:16:17] Parser completed in 15.87 seconds
+[09.27.2011 - 04:16:17] ---- SESSION END ----
+[09.27.2011 - 05:31:01] ---- SESSION BEGIN ----
+[09.27.2011 - 05:31:01] Established database connection
+[09.27.2011 - 05:31:01] Latest JSON dump is 1317115804
+[09.27.2011 - 05:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317115804.json
+[09.27.2011 - 05:31:01] Opened up the JSON file successfully
+[09.27.2011 - 05:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 05:31:02] Done parsing through the file
+[09.27.2011 - 05:31:02] Converted array into string for JSON decoding preparation
+[09.27.2011 - 05:31:02] Begin JSON decode of auctionsString
+[09.27.2011 - 05:31:02] JSON decoding complete
+[09.27.2011 - 05:31:02] There are 25528 elements in the auction array
+[09.27.2011 - 05:31:02] Starting to insert all auctions into the database
+[09.27.2011 - 05:31:17] Added 25528 auctions into the database
+[09.27.2011 - 05:31:17] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 05:31:17] Parser completed in 15.46 seconds
+[09.27.2011 - 05:31:17] ---- SESSION END ----
+[09.27.2011 - 06:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 06:46:01] Established database connection
+[09.27.2011 - 06:46:01] Latest JSON dump is 1317120329
+[09.27.2011 - 06:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317120329.json
+[09.27.2011 - 06:46:01] Opened up the JSON file successfully
+[09.27.2011 - 06:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 06:46:01] Done parsing through the file
+[09.27.2011 - 06:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 06:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 06:46:02] JSON decoding complete
+[09.27.2011 - 06:46:02] There are 25750 elements in the auction array
+[09.27.2011 - 06:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 06:46:16] Added 25750 auctions into the database
+[09.27.2011 - 06:46:16] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 06:46:16] Parser completed in 14.73 seconds
+[09.27.2011 - 06:46:16] ---- SESSION END ----
+[09.27.2011 - 07:31:01] ---- SESSION BEGIN ----
+[09.27.2011 - 07:31:01] Established database connection
+[09.27.2011 - 07:31:01] Latest JSON dump is 1317123004
+[09.27.2011 - 07:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317123004.json
+[09.27.2011 - 07:31:01] Opened up the JSON file successfully
+[09.27.2011 - 07:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 07:31:01] Done parsing through the file
+[09.27.2011 - 07:31:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 07:31:01] Begin JSON decode of auctionsString
+[09.27.2011 - 07:31:02] JSON decoding complete
+[09.27.2011 - 07:31:02] There are 24946 elements in the auction array
+[09.27.2011 - 07:31:02] Starting to insert all auctions into the database
+[09.27.2011 - 07:31:15] Added 24946 auctions into the database
+[09.27.2011 - 07:31:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 07:31:15] Parser completed in 14.40 seconds
+[09.27.2011 - 07:31:15] ---- SESSION END ----
+[09.27.2011 - 08:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 08:46:01] Established database connection
+[09.27.2011 - 08:46:01] Latest JSON dump is 1317127529
+[09.27.2011 - 08:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317127529.json
+[09.27.2011 - 08:46:01] Opened up the JSON file successfully
+[09.27.2011 - 08:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 08:46:01] Done parsing through the file
+[09.27.2011 - 08:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 08:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 08:46:02] JSON decoding complete
+[09.27.2011 - 08:46:02] There are 25512 elements in the auction array
+[09.27.2011 - 08:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 08:46:15] Added 25512 auctions into the database
+[09.27.2011 - 08:46:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 08:46:15] Parser completed in 13.80 seconds
+[09.27.2011 - 08:46:15] ---- SESSION END ----
+[09.27.2011 - 09:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 09:46:01] Established database connection
+[09.27.2011 - 09:46:01] Latest JSON dump is 1317131104
+[09.27.2011 - 09:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317131104.json
+[09.27.2011 - 09:46:01] Opened up the JSON file successfully
+[09.27.2011 - 09:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 09:46:01] Done parsing through the file
+[09.27.2011 - 09:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 09:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 09:46:02] JSON decoding complete
+[09.27.2011 - 09:46:02] There are 24959 elements in the auction array
+[09.27.2011 - 09:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 09:46:15] Added 24959 auctions into the database
+[09.27.2011 - 09:46:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 09:46:15] Parser completed in 14.17 seconds
+[09.27.2011 - 09:46:15] ---- SESSION END ----
+[09.27.2011 - 10:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 10:46:01] Established database connection
+[09.27.2011 - 10:46:01] Latest JSON dump is 1317134728
+[09.27.2011 - 10:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317134728.json
+[09.27.2011 - 10:46:01] Opened up the JSON file successfully
+[09.27.2011 - 10:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 10:46:01] Done parsing through the file
+[09.27.2011 - 10:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 10:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 10:46:01] JSON decoding complete
+[09.27.2011 - 10:46:02] There are 25104 elements in the auction array
+[09.27.2011 - 10:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 10:46:15] Added 25104 auctions into the database
+[09.27.2011 - 10:46:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 10:46:15] Parser completed in 14.42 seconds
+[09.27.2011 - 10:46:15] ---- SESSION END ----
+[09.27.2011 - 11:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 11:46:01] Established database connection
+[09.27.2011 - 11:46:01] Latest JSON dump is 1317138304
+[09.27.2011 - 11:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317138304.json
+[09.27.2011 - 11:46:01] Opened up the JSON file successfully
+[09.27.2011 - 11:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 11:46:01] Done parsing through the file
+[09.27.2011 - 11:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 11:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 11:46:02] JSON decoding complete
+[09.27.2011 - 11:46:02] There are 24915 elements in the auction array
+[09.27.2011 - 11:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 11:46:15] Added 24915 auctions into the database
+[09.27.2011 - 11:46:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 11:46:15] Parser completed in 13.80 seconds
+[09.27.2011 - 11:46:15] ---- SESSION END ----
+[09.27.2011 - 12:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 12:46:01] Established database connection
+[09.27.2011 - 12:46:01] Latest JSON dump is 1317141903
+[09.27.2011 - 12:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317141903.json
+[09.27.2011 - 12:46:01] Opened up the JSON file successfully
+[09.27.2011 - 12:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 12:46:02] Done parsing through the file
+[09.27.2011 - 12:46:02] Converted array into string for JSON decoding preparation
+[09.27.2011 - 12:46:02] Begin JSON decode of auctionsString
+[09.27.2011 - 12:46:02] JSON decoding complete
+[09.27.2011 - 12:46:02] There are 24011 elements in the auction array
+[09.27.2011 - 12:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 12:46:15] Added 24011 auctions into the database
+[09.27.2011 - 12:46:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 12:46:15] Parser completed in 13.29 seconds
+[09.27.2011 - 12:46:15] ---- SESSION END ----
+[09.27.2011 - 14:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 14:01:01] Established database connection
+[09.27.2011 - 14:01:01] Latest JSON dump is 1317146404
+[09.27.2011 - 14:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317146404.json
+[09.27.2011 - 14:01:01] Opened up the JSON file successfully
+[09.27.2011 - 14:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 14:01:01] Done parsing through the file
+[09.27.2011 - 14:01:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 14:01:01] Begin JSON decode of auctionsString
+[09.27.2011 - 14:01:02] JSON decoding complete
+[09.27.2011 - 14:01:02] There are 23855 elements in the auction array
+[09.27.2011 - 14:01:02] Starting to insert all auctions into the database
+[09.27.2011 - 14:01:15] Added 23855 auctions into the database
+[09.27.2011 - 14:01:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 14:01:15] Parser completed in 13.43 seconds
+[09.27.2011 - 14:01:15] ---- SESSION END ----
+[09.27.2011 - 15:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 15:01:01] Established database connection
+[09.27.2011 - 15:01:01] Latest JSON dump is 1317150003
+[09.27.2011 - 15:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317150003.json
+[09.27.2011 - 15:01:01] Opened up the JSON file successfully
+[09.27.2011 - 15:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 15:01:01] Done parsing through the file
+[09.27.2011 - 15:01:02] Converted array into string for JSON decoding preparation
+[09.27.2011 - 15:01:02] Begin JSON decode of auctionsString
+[09.27.2011 - 15:01:02] JSON decoding complete
+[09.27.2011 - 15:01:02] There are 23742 elements in the auction array
+[09.27.2011 - 15:01:02] Starting to insert all auctions into the database
+[09.27.2011 - 15:01:15] Added 23742 auctions into the database
+[09.27.2011 - 15:01:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 15:01:15] Parser completed in 13.75 seconds
+[09.27.2011 - 15:01:15] ---- SESSION END ----
+[09.27.2011 - 16:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 16:01:01] Established database connection
+[09.27.2011 - 16:01:01] Latest JSON dump is 1317153604
+[09.27.2011 - 16:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317153604.json
+[09.27.2011 - 16:01:01] Opened up the JSON file successfully
+[09.27.2011 - 16:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 16:01:01] Done parsing through the file
+[09.27.2011 - 16:01:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 16:01:01] Begin JSON decode of auctionsString
+[09.27.2011 - 16:01:01] JSON decoding complete
+[09.27.2011 - 16:01:02] There are 23894 elements in the auction array
+[09.27.2011 - 16:01:02] Starting to insert all auctions into the database
+[09.27.2011 - 16:01:15] Added 23894 auctions into the database
+[09.27.2011 - 16:01:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 16:01:15] Parser completed in 13.98 seconds
+[09.27.2011 - 16:01:15] ---- SESSION END ----
+[09.27.2011 - 17:16:01] ---- SESSION BEGIN ----
+[09.27.2011 - 17:16:01] Established database connection
+[09.27.2011 - 17:16:01] Latest JSON dump is 1317158104
+[09.27.2011 - 17:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317158104.json
+[09.27.2011 - 17:16:01] Opened up the JSON file successfully
+[09.27.2011 - 17:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 17:16:01] Done parsing through the file
+[09.27.2011 - 17:16:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 17:16:01] Begin JSON decode of auctionsString
+[09.27.2011 - 17:16:01] JSON decoding complete
+[09.27.2011 - 17:16:02] There are 23615 elements in the auction array
+[09.27.2011 - 17:16:02] Starting to insert all auctions into the database
+[09.27.2011 - 17:16:15] Added 23615 auctions into the database
+[09.27.2011 - 17:16:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 17:16:15] Parser completed in 13.86 seconds
+[09.27.2011 - 17:16:15] ---- SESSION END ----
+[09.27.2011 - 18:16:01] ---- SESSION BEGIN ----
+[09.27.2011 - 18:16:01] Established database connection
+[09.27.2011 - 18:16:01] Latest JSON dump is 1317161703
+[09.27.2011 - 18:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317161703.json
+[09.27.2011 - 18:16:01] Opened up the JSON file successfully
+[09.27.2011 - 18:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 18:16:02] Done parsing through the file
+[09.27.2011 - 18:16:02] Converted array into string for JSON decoding preparation
+[09.27.2011 - 18:16:02] Begin JSON decode of auctionsString
+[09.27.2011 - 18:16:02] JSON decoding complete
+[09.27.2011 - 18:16:02] There are 23607 elements in the auction array
+[09.27.2011 - 18:16:02] Starting to insert all auctions into the database
+[09.27.2011 - 18:16:15] Added 23607 auctions into the database
+[09.27.2011 - 18:16:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 18:16:15] Parser completed in 13.49 seconds
+[09.27.2011 - 18:16:15] ---- SESSION END ----
+[09.27.2011 - 19:16:01] ---- SESSION BEGIN ----
+[09.27.2011 - 19:16:01] Established database connection
+[09.27.2011 - 19:16:01] Latest JSON dump is 1317165303
+[09.27.2011 - 19:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317165303.json
+[09.27.2011 - 19:16:01] Opened up the JSON file successfully
+[09.27.2011 - 19:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 19:16:01] Done parsing through the file
+[09.27.2011 - 19:16:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 19:16:01] Begin JSON decode of auctionsString
+[09.27.2011 - 19:16:01] JSON decoding complete
+[09.27.2011 - 19:16:01] There are 24815 elements in the auction array
+[09.27.2011 - 19:16:01] Starting to insert all auctions into the database
+[09.27.2011 - 19:16:15] Added 24815 auctions into the database
+[09.27.2011 - 19:16:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 19:16:15] Parser completed in 14.51 seconds
+[09.27.2011 - 19:16:15] ---- SESSION END ----
+[09.27.2011 - 20:31:01] ---- SESSION BEGIN ----
+[09.27.2011 - 20:31:01] Established database connection
+[09.27.2011 - 20:31:01] Latest JSON dump is 1317169804
+[09.27.2011 - 20:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317169804.json
+[09.27.2011 - 20:31:01] Opened up the JSON file successfully
+[09.27.2011 - 20:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 20:31:01] Done parsing through the file
+[09.27.2011 - 20:31:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 20:31:01] Begin JSON decode of auctionsString
+[09.27.2011 - 20:31:01] JSON decoding complete
+[09.27.2011 - 20:31:01] There are 25750 elements in the auction array
+[09.27.2011 - 20:31:01] Starting to insert all auctions into the database
+[09.27.2011 - 20:31:15] Added 25750 auctions into the database
+[09.27.2011 - 20:31:15] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 20:31:15] Parser completed in 14.80 seconds
+[09.27.2011 - 20:31:15] ---- SESSION END ----
+[09.27.2011 - 21:31:01] ---- SESSION BEGIN ----
+[09.27.2011 - 21:31:01] Established database connection
+[09.27.2011 - 21:31:01] Latest JSON dump is 1317173403
+[09.27.2011 - 21:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317173403.json
+[09.27.2011 - 21:31:01] Opened up the JSON file successfully
+[09.27.2011 - 21:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 21:31:02] Done parsing through the file
+[09.27.2011 - 21:31:02] Converted array into string for JSON decoding preparation
+[09.27.2011 - 21:31:02] Begin JSON decode of auctionsString
+[09.27.2011 - 21:31:02] JSON decoding complete
+[09.27.2011 - 21:31:02] There are 26138 elements in the auction array
+[09.27.2011 - 21:31:02] Starting to insert all auctions into the database
+[09.27.2011 - 21:31:19] Added 26138 auctions into the database
+[09.27.2011 - 21:31:19] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 21:31:19] Parser completed in 17.74 seconds
+[09.27.2011 - 21:31:19] ---- SESSION END ----
+[09.27.2011 - 22:01:01] ---- SESSION BEGIN ----
+[09.27.2011 - 22:01:01] Established database connection
+[09.27.2011 - 22:01:01] Latest JSON dump is 1317175202
+[09.27.2011 - 22:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317175202.json
+[09.27.2011 - 22:01:01] Opened up the JSON file successfully
+[09.27.2011 - 22:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 22:01:01] Done parsing through the file
+[09.27.2011 - 22:01:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 22:01:01] Begin JSON decode of auctionsString
+[09.27.2011 - 22:01:01] JSON decoding complete
+[09.27.2011 - 22:01:01] There are  elements in the auction array
+[09.27.2011 - 22:01:01] Starting to insert all auctions into the database
+[09.27.2011 - 22:01:01] Added  auctions into the database
+[09.27.2011 - 22:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 22:01:01] Parser completed in 0.02 seconds
+[09.27.2011 - 22:01:01] ---- SESSION END ----
+[09.27.2011 - 22:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 22:46:01] Established database connection
+[09.27.2011 - 22:46:01] Latest JSON dump is 1317177903
+[09.27.2011 - 22:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317177903.json
+[09.27.2011 - 22:46:01] Opened up the JSON file successfully
+[09.27.2011 - 22:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 22:46:01] Done parsing through the file
+[09.27.2011 - 22:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 22:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 22:46:02] JSON decoding complete
+[09.27.2011 - 22:46:02] There are 20400 elements in the auction array
+[09.27.2011 - 22:46:02] Starting to insert all auctions into the database
+[09.27.2011 - 22:46:20] Added 20400 auctions into the database
+[09.27.2011 - 22:46:20] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 22:46:20] Parser completed in 18.57 seconds
+[09.27.2011 - 22:46:20] ---- SESSION END ----
+[09.27.2011 - 23:46:01] ---- SESSION BEGIN ----
+[09.27.2011 - 23:46:01] Established database connection
+[09.27.2011 - 23:46:01] Latest JSON dump is 1317181502
+[09.27.2011 - 23:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317181502.json
+[09.27.2011 - 23:46:01] Opened up the JSON file successfully
+[09.27.2011 - 23:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.27.2011 - 23:46:01] Done parsing through the file
+[09.27.2011 - 23:46:01] Converted array into string for JSON decoding preparation
+[09.27.2011 - 23:46:01] Begin JSON decode of auctionsString
+[09.27.2011 - 23:46:01] JSON decoding complete
+[09.27.2011 - 23:46:01] There are  elements in the auction array
+[09.27.2011 - 23:46:01] Starting to insert all auctions into the database
+[09.27.2011 - 23:46:01] Added  auctions into the database
+[09.27.2011 - 23:46:01] Telling MASTER CONTROL to put the parser program on standby
+[09.27.2011 - 23:46:01] Parser completed in 0.01 seconds
+[09.27.2011 - 23:46:01] ---- SESSION END ----
+[09.28.2011 - 00:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 00:46:01] Established database connection
+[09.28.2011 - 00:46:01] Latest JSON dump is 1317185102
+[09.28.2011 - 00:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317185102.json
+[09.28.2011 - 00:46:01] Opened up the JSON file successfully
+[09.28.2011 - 00:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 00:46:01] Done parsing through the file
+[09.28.2011 - 00:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 00:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 00:46:01] JSON decoding complete
+[09.28.2011 - 00:46:01] There are  elements in the auction array
+[09.28.2011 - 00:46:01] Starting to insert all auctions into the database
+[09.28.2011 - 00:46:01] Added  auctions into the database
+[09.28.2011 - 00:46:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 00:46:01] Parser completed in 0.03 seconds
+[09.28.2011 - 00:46:01] ---- SESSION END ----
+[09.28.2011 - 01:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 01:46:01] Established database connection
+[09.28.2011 - 01:46:01] Latest JSON dump is 1317188704
+[09.28.2011 - 01:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317188704.json
+[09.28.2011 - 01:46:01] Opened up the JSON file successfully
+[09.28.2011 - 01:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 01:46:01] Done parsing through the file
+[09.28.2011 - 01:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 01:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 01:46:01] JSON decoding complete
+[09.28.2011 - 01:46:01] There are 20875 elements in the auction array
+[09.28.2011 - 01:46:01] Starting to insert all auctions into the database
+[09.28.2011 - 01:46:17] Added 20875 auctions into the database
+[09.28.2011 - 01:46:17] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 01:46:17] Parser completed in 16.80 seconds
+[09.28.2011 - 01:46:17] ---- SESSION END ----
+[09.28.2011 - 02:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 02:46:01] Established database connection
+[09.28.2011 - 02:46:01] Latest JSON dump is 1317192301
+[09.28.2011 - 02:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317192301.json
+[09.28.2011 - 02:46:01] Opened up the JSON file successfully
+[09.28.2011 - 02:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 02:46:01] Done parsing through the file
+[09.28.2011 - 02:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 02:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 02:46:02] JSON decoding complete
+[09.28.2011 - 02:46:02] There are  elements in the auction array
+[09.28.2011 - 02:46:02] Starting to insert all auctions into the database
+[09.28.2011 - 02:46:02] Added  auctions into the database
+[09.28.2011 - 02:46:02] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 02:46:02] Parser completed in 0.01 seconds
+[09.28.2011 - 02:46:02] ---- SESSION END ----
+[09.28.2011 - 03:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 03:46:01] Established database connection
+[09.28.2011 - 03:46:01] Latest JSON dump is 1317195903
+[09.28.2011 - 03:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317195903.json
+[09.28.2011 - 03:46:01] Opened up the JSON file successfully
+[09.28.2011 - 03:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 03:46:01] Done parsing through the file
+[09.28.2011 - 03:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 03:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 03:46:02] JSON decoding complete
+[09.28.2011 - 03:46:02] There are 21533 elements in the auction array
+[09.28.2011 - 03:46:02] Starting to insert all auctions into the database
+[09.28.2011 - 03:46:14] Added 21533 auctions into the database
+[09.28.2011 - 03:46:14] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 03:46:14] Parser completed in 12.67 seconds
+[09.28.2011 - 03:46:14] ---- SESSION END ----
+[09.28.2011 - 04:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 04:46:01] Established database connection
+[09.28.2011 - 04:46:01] Latest JSON dump is 1317199503
+[09.28.2011 - 04:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317199503.json
+[09.28.2011 - 04:46:01] Opened up the JSON file successfully
+[09.28.2011 - 04:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 04:46:02] Done parsing through the file
+[09.28.2011 - 04:46:02] Converted array into string for JSON decoding preparation
+[09.28.2011 - 04:46:02] Begin JSON decode of auctionsString
+[09.28.2011 - 04:46:02] JSON decoding complete
+[09.28.2011 - 04:46:02] There are 20961 elements in the auction array
+[09.28.2011 - 04:46:02] Starting to insert all auctions into the database
+[09.28.2011 - 04:46:16] Added 20961 auctions into the database
+[09.28.2011 - 04:46:16] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 04:46:16] Parser completed in 14.20 seconds
+[09.28.2011 - 04:46:16] ---- SESSION END ----
+[09.28.2011 - 05:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 05:46:01] Established database connection
+[09.28.2011 - 05:46:01] Latest JSON dump is 1317203101
+[09.28.2011 - 05:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317203101.json
+[09.28.2011 - 05:46:01] Opened up the JSON file successfully
+[09.28.2011 - 05:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 05:46:01] Done parsing through the file
+[09.28.2011 - 05:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 05:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 05:46:01] JSON decoding complete
+[09.28.2011 - 05:46:01] There are  elements in the auction array
+[09.28.2011 - 05:46:01] Starting to insert all auctions into the database
+[09.28.2011 - 05:46:01] Added  auctions into the database
+[09.28.2011 - 05:46:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 05:46:01] Parser completed in 0.01 seconds
+[09.28.2011 - 05:46:01] ---- SESSION END ----
+[09.28.2011 - 06:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 06:46:01] Established database connection
+[09.28.2011 - 06:46:01] Latest JSON dump is 1317206703
+[09.28.2011 - 06:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317206703.json
+[09.28.2011 - 06:46:01] Opened up the JSON file successfully
+[09.28.2011 - 06:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 06:46:01] Done parsing through the file
+[09.28.2011 - 06:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 06:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 06:46:02] JSON decoding complete
+[09.28.2011 - 06:46:02] There are 21691 elements in the auction array
+[09.28.2011 - 06:46:02] Starting to insert all auctions into the database
+[09.28.2011 - 06:46:14] Added 21691 auctions into the database
+[09.28.2011 - 06:46:14] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 06:46:14] Parser completed in 13.11 seconds
+[09.28.2011 - 06:46:14] ---- SESSION END ----
+[09.28.2011 - 07:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 07:46:01] Established database connection
+[09.28.2011 - 07:46:01] Latest JSON dump is 1317210302
+[09.28.2011 - 07:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317210302.json
+[09.28.2011 - 07:46:01] Opened up the JSON file successfully
+[09.28.2011 - 07:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 07:46:01] Done parsing through the file
+[09.28.2011 - 07:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 07:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 07:46:01] JSON decoding complete
+[09.28.2011 - 07:46:01] There are  elements in the auction array
+[09.28.2011 - 07:46:01] Starting to insert all auctions into the database
+[09.28.2011 - 07:46:01] Added  auctions into the database
+[09.28.2011 - 07:46:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 07:46:01] Parser completed in 0.00 seconds
+[09.28.2011 - 07:46:01] ---- SESSION END ----
+[09.28.2011 - 08:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 08:46:01] Established database connection
+[09.28.2011 - 08:46:01] Latest JSON dump is 1317213903
+[09.28.2011 - 08:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317213903.json
+[09.28.2011 - 08:46:01] Opened up the JSON file successfully
+[09.28.2011 - 08:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 08:46:01] Done parsing through the file
+[09.28.2011 - 08:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 08:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 08:46:02] JSON decoding complete
+[09.28.2011 - 08:46:02] There are 21290 elements in the auction array
+[09.28.2011 - 08:46:02] Starting to insert all auctions into the database
+[09.28.2011 - 08:46:14] Added 21290 auctions into the database
+[09.28.2011 - 08:46:14] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 08:46:14] Parser completed in 13.12 seconds
+[09.28.2011 - 08:46:14] ---- SESSION END ----
+[09.28.2011 - 09:46:01] ---- SESSION BEGIN ----
+[09.28.2011 - 09:46:01] Established database connection
+[09.28.2011 - 09:46:01] Latest JSON dump is 1317217502
+[09.28.2011 - 09:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317217502.json
+[09.28.2011 - 09:46:01] Opened up the JSON file successfully
+[09.28.2011 - 09:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 09:46:01] Done parsing through the file
+[09.28.2011 - 09:46:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 09:46:01] Begin JSON decode of auctionsString
+[09.28.2011 - 09:46:01] JSON decoding complete
+[09.28.2011 - 09:46:01] There are  elements in the auction array
+[09.28.2011 - 09:46:01] Starting to insert all auctions into the database
+[09.28.2011 - 09:46:01] Added  auctions into the database
+[09.28.2011 - 09:46:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 09:46:01] Parser completed in 0.00 seconds
+[09.28.2011 - 09:46:01] ---- SESSION END ----
+[09.28.2011 - 11:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 11:01:01] Established database connection
+[09.28.2011 - 11:01:01] Latest JSON dump is 1317222004
+[09.28.2011 - 11:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317222004.json
+[09.28.2011 - 11:01:01] Opened up the JSON file successfully
+[09.28.2011 - 11:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 11:01:01] Done parsing through the file
+[09.28.2011 - 11:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 11:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 11:01:01] JSON decoding complete
+[09.28.2011 - 11:01:01] There are 21440 elements in the auction array
+[09.28.2011 - 11:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 11:01:14] Added 21440 auctions into the database
+[09.28.2011 - 11:01:14] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 11:01:14] Parser completed in 13.09 seconds
+[09.28.2011 - 11:01:14] ---- SESSION END ----
+[09.28.2011 - 12:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 12:01:01] Established database connection
+[09.28.2011 - 12:01:01] Latest JSON dump is 1317225602
+[09.28.2011 - 12:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317225602.json
+[09.28.2011 - 12:01:01] Opened up the JSON file successfully
+[09.28.2011 - 12:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 12:01:01] Done parsing through the file
+[09.28.2011 - 12:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 12:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 12:01:01] JSON decoding complete
+[09.28.2011 - 12:01:01] There are  elements in the auction array
+[09.28.2011 - 12:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 12:01:01] Added  auctions into the database
+[09.28.2011 - 12:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 12:01:01] Parser completed in 0.01 seconds
+[09.28.2011 - 12:01:01] ---- SESSION END ----
+[09.28.2011 - 13:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 13:01:01] Established database connection
+[09.28.2011 - 13:01:01] Latest JSON dump is 1317229202
+[09.28.2011 - 13:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317229202.json
+[09.28.2011 - 13:01:01] Opened up the JSON file successfully
+[09.28.2011 - 13:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 13:01:01] Done parsing through the file
+[09.28.2011 - 13:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 13:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 13:01:01] JSON decoding complete
+[09.28.2011 - 13:01:01] There are  elements in the auction array
+[09.28.2011 - 13:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 13:01:01] Added  auctions into the database
+[09.28.2011 - 13:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 13:01:01] Parser completed in 0.00 seconds
+[09.28.2011 - 13:01:01] ---- SESSION END ----
+[09.28.2011 - 14:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 14:01:01] Established database connection
+[09.28.2011 - 14:01:01] Latest JSON dump is 1317232802
+[09.28.2011 - 14:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317232802.json
+[09.28.2011 - 14:01:01] Opened up the JSON file successfully
+[09.28.2011 - 14:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 14:01:01] Done parsing through the file
+[09.28.2011 - 14:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 14:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 14:01:01] JSON decoding complete
+[09.28.2011 - 14:01:01] There are  elements in the auction array
+[09.28.2011 - 14:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 14:01:01] Added  auctions into the database
+[09.28.2011 - 14:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 14:01:01] Parser completed in 0.00 seconds
+[09.28.2011 - 14:01:01] ---- SESSION END ----
+[09.28.2011 - 15:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 15:01:01] Established database connection
+[09.28.2011 - 15:01:01] Latest JSON dump is 1317236403
+[09.28.2011 - 15:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317236403.json
+[09.28.2011 - 15:01:01] Opened up the JSON file successfully
+[09.28.2011 - 15:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 15:01:01] Done parsing through the file
+[09.28.2011 - 15:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 15:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 15:01:02] JSON decoding complete
+[09.28.2011 - 15:01:02] There are 22215 elements in the auction array
+[09.28.2011 - 15:01:02] Starting to insert all auctions into the database
+[09.28.2011 - 15:01:11] Added 22215 auctions into the database
+[09.28.2011 - 15:01:11] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 15:01:11] Parser completed in 9.23 seconds
+[09.28.2011 - 15:01:11] ---- SESSION END ----
+[09.28.2011 - 16:01:02] ---- SESSION BEGIN ----
+[09.28.2011 - 16:01:02] Established database connection
+[09.28.2011 - 16:01:02] Latest JSON dump is 1317240003
+[09.28.2011 - 16:01:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317240003.json
+[09.28.2011 - 16:01:02] Opened up the JSON file successfully
+[09.28.2011 - 16:01:02] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 16:01:02] Done parsing through the file
+[09.28.2011 - 16:01:02] Converted array into string for JSON decoding preparation
+[09.28.2011 - 16:01:02] Begin JSON decode of auctionsString
+[09.28.2011 - 16:01:02] JSON decoding complete
+[09.28.2011 - 16:01:02] There are 22851 elements in the auction array
+[09.28.2011 - 16:01:02] Starting to insert all auctions into the database
+[09.28.2011 - 16:01:11] Added 22851 auctions into the database
+[09.28.2011 - 16:01:11] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 16:01:11] Parser completed in 9.31 seconds
+[09.28.2011 - 16:01:11] ---- SESSION END ----
+[09.28.2011 - 17:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 17:01:01] Established database connection
+[09.28.2011 - 17:01:01] Latest JSON dump is 1317243602
+[09.28.2011 - 17:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317243602.json
+[09.28.2011 - 17:01:01] Opened up the JSON file successfully
+[09.28.2011 - 17:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 17:01:01] Done parsing through the file
+[09.28.2011 - 17:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 17:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 17:01:01] JSON decoding complete
+[09.28.2011 - 17:01:01] There are  elements in the auction array
+[09.28.2011 - 17:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 17:01:01] Added  auctions into the database
+[09.28.2011 - 17:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 17:01:01] Parser completed in 0.01 seconds
+[09.28.2011 - 17:01:01] ---- SESSION END ----
+[09.28.2011 - 18:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 18:01:01] Established database connection
+[09.28.2011 - 18:01:01] Latest JSON dump is 1317247202
+[09.28.2011 - 18:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317247202.json
+[09.28.2011 - 18:01:01] Opened up the JSON file successfully
+[09.28.2011 - 18:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 18:01:01] Done parsing through the file
+[09.28.2011 - 18:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 18:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 18:01:01] JSON decoding complete
+[09.28.2011 - 18:01:01] There are  elements in the auction array
+[09.28.2011 - 18:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 18:01:01] Added  auctions into the database
+[09.28.2011 - 18:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 18:01:01] Parser completed in 0.01 seconds
+[09.28.2011 - 18:01:01] ---- SESSION END ----
+[09.28.2011 - 19:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 19:01:01] Established database connection
+[09.28.2011 - 19:01:01] Latest JSON dump is 1317250803
+[09.28.2011 - 19:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317250803.json
+[09.28.2011 - 19:01:01] Opened up the JSON file successfully
+[09.28.2011 - 19:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 19:01:01] Done parsing through the file
+[09.28.2011 - 19:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 19:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 19:01:02] JSON decoding complete
+[09.28.2011 - 19:01:02] There are 23331 elements in the auction array
+[09.28.2011 - 19:01:02] Starting to insert all auctions into the database
+[09.28.2011 - 19:01:10] Added 23331 auctions into the database
+[09.28.2011 - 19:01:10] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 19:01:10] Parser completed in 9.23 seconds
+[09.28.2011 - 19:01:10] ---- SESSION END ----
+[09.28.2011 - 20:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 20:01:01] Established database connection
+[09.28.2011 - 20:01:01] Latest JSON dump is 1317254402
+[09.28.2011 - 20:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317254402.json
+[09.28.2011 - 20:01:01] Opened up the JSON file successfully
+[09.28.2011 - 20:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 20:01:01] Done parsing through the file
+[09.28.2011 - 20:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 20:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 20:01:01] JSON decoding complete
+[09.28.2011 - 20:01:01] There are  elements in the auction array
+[09.28.2011 - 20:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 20:01:01] Added  auctions into the database
+[09.28.2011 - 20:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 20:01:01] Parser completed in 0.02 seconds
+[09.28.2011 - 20:01:01] ---- SESSION END ----
+[09.28.2011 - 21:01:02] ---- SESSION BEGIN ----
+[09.28.2011 - 21:01:02] Established database connection
+[09.28.2011 - 21:01:02] Latest JSON dump is 1317258003
+[09.28.2011 - 21:01:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317258003.json
+[09.28.2011 - 21:01:02] Opened up the JSON file successfully
+[09.28.2011 - 21:01:02] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 21:01:02] Done parsing through the file
+[09.28.2011 - 21:01:02] Converted array into string for JSON decoding preparation
+[09.28.2011 - 21:01:02] Begin JSON decode of auctionsString
+[09.28.2011 - 21:01:02] JSON decoding complete
+[09.28.2011 - 21:01:02] There are 23376 elements in the auction array
+[09.28.2011 - 21:01:02] Starting to insert all auctions into the database
+[09.28.2011 - 21:01:10] Added 23376 auctions into the database
+[09.28.2011 - 21:01:10] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 21:01:10] Parser completed in 8.92 seconds
+[09.28.2011 - 21:01:10] ---- SESSION END ----
+[09.28.2011 - 22:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 22:01:01] Established database connection
+[09.28.2011 - 22:01:01] Latest JSON dump is 1317261603
+[09.28.2011 - 22:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317261603.json
+[09.28.2011 - 22:01:01] Opened up the JSON file successfully
+[09.28.2011 - 22:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 22:01:01] Done parsing through the file
+[09.28.2011 - 22:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 22:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 22:01:02] JSON decoding complete
+[09.28.2011 - 22:01:02] There are 23201 elements in the auction array
+[09.28.2011 - 22:01:02] Starting to insert all auctions into the database
+[09.28.2011 - 22:01:12] Added 23201 auctions into the database
+[09.28.2011 - 22:01:12] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 22:01:12] Parser completed in 10.66 seconds
+[09.28.2011 - 22:01:12] ---- SESSION END ----
+[09.28.2011 - 23:01:01] ---- SESSION BEGIN ----
+[09.28.2011 - 23:01:01] Established database connection
+[09.28.2011 - 23:01:01] Latest JSON dump is 1317265202
+[09.28.2011 - 23:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317265202.json
+[09.28.2011 - 23:01:01] Opened up the JSON file successfully
+[09.28.2011 - 23:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.28.2011 - 23:01:01] Done parsing through the file
+[09.28.2011 - 23:01:01] Converted array into string for JSON decoding preparation
+[09.28.2011 - 23:01:01] Begin JSON decode of auctionsString
+[09.28.2011 - 23:01:01] JSON decoding complete
+[09.28.2011 - 23:01:01] There are  elements in the auction array
+[09.28.2011 - 23:01:01] Starting to insert all auctions into the database
+[09.28.2011 - 23:01:01] Added  auctions into the database
+[09.28.2011 - 23:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.28.2011 - 23:01:01] Parser completed in 0.01 seconds
+[09.28.2011 - 23:01:01] ---- SESSION END ----
+[09.29.2011 - 00:04:29] ---- SESSION BEGIN ----
+[09.29.2011 - 00:04:29] Established database connection
+[09.29.2011 - 00:04:29] Latest JSON dump is 1317269069
+[09.29.2011 - 00:04:29] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317269069.json
+[09.29.2011 - 00:04:29] Opened up the JSON file successfully
+[09.29.2011 - 00:04:29] Parsing through JSON file and adding each line to auctionsArray
+[09.29.2011 - 00:04:29] Done parsing through the file
+[09.29.2011 - 00:04:29] Converted array into string for JSON decoding preparation
+[09.29.2011 - 00:04:29] Begin JSON decode of auctionsString
+[09.29.2011 - 00:04:29] JSON decoding complete
+[09.29.2011 - 00:04:29] There are  elements in the auction array
+[09.29.2011 - 00:04:29] Starting to insert all auctions into the database
+[09.29.2011 - 00:04:29] Added  auctions into the database
+[09.29.2011 - 00:04:29] Telling MASTER CONTROL to put the parser program on standby
+[09.29.2011 - 00:04:29] Parser completed in 0.02 seconds
+[09.29.2011 - 00:04:29] ---- SESSION END ----
+[09.29.2011 - 01:01:01] ---- SESSION BEGIN ----
+[09.29.2011 - 01:01:01] Established database connection
+[09.29.2011 - 01:01:01] Latest JSON dump is 1317272402
+[09.29.2011 - 01:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317272402.json
+[09.29.2011 - 01:01:01] Opened up the JSON file successfully
+[09.29.2011 - 01:01:01] Parsing through JSON file and adding each line to auctionsArray
+[09.29.2011 - 01:01:01] Done parsing through the file
+[09.29.2011 - 01:01:01] Converted array into string for JSON decoding preparation
+[09.29.2011 - 01:01:01] Begin JSON decode of auctionsString
+[09.29.2011 - 01:01:01] JSON decoding complete
+[09.29.2011 - 01:01:01] There are  elements in the auction array
+[09.29.2011 - 01:01:01] Starting to insert all auctions into the database
+[09.29.2011 - 01:01:01] Added  auctions into the database
+[09.29.2011 - 01:01:01] Telling MASTER CONTROL to put the parser program on standby
+[09.29.2011 - 01:01:01] Parser completed in 0.00 seconds
+[09.29.2011 - 01:01:01] ---- SESSION END ----
+[09.29.2011 - 02:16:01] ---- SESSION BEGIN ----
+[09.29.2011 - 02:16:01] Established database connection
+[09.29.2011 - 02:16:01] Latest JSON dump is 1317276902
+[09.29.2011 - 02:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317276902.json
+[09.29.2011 - 02:16:01] Opened up the JSON file successfully
+[09.29.2011 - 02:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.29.2011 - 02:16:01] Done parsing through the file
+[09.29.2011 - 02:16:01] Converted array into string for JSON decoding preparation
+[09.29.2011 - 02:16:01] Begin JSON decode of auctionsString
+[09.29.2011 - 02:16:01] JSON decoding complete
+[09.29.2011 - 02:16:01] There are  elements in the auction array
+[09.29.2011 - 02:16:01] Starting to insert all auctions into the database
+[09.29.2011 - 02:16:01] Added  auctions into the database
+[09.29.2011 - 02:16:01] Telling MASTER CONTROL to put the parser program on standby
+[09.29.2011 - 02:16:01] Parser completed in 0.00 seconds
+[09.29.2011 - 02:16:01] ---- SESSION END ----
+[09.29.2011 - 03:16:01] ---- SESSION BEGIN ----
+[09.29.2011 - 03:16:01] Established database connection
+[09.29.2011 - 03:16:01] Latest JSON dump is 1317280504
+[09.29.2011 - 03:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317280504.json
+[09.29.2011 - 03:16:01] Opened up the JSON file successfully
+[09.29.2011 - 03:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.29.2011 - 03:16:01] Done parsing through the file
+[09.29.2011 - 03:16:01] Converted array into string for JSON decoding preparation
+[09.29.2011 - 03:16:01] Begin JSON decode of auctionsString
+[09.29.2011 - 03:16:02] JSON decoding complete
+[09.29.2011 - 03:16:02] There are 22366 elements in the auction array
+[09.29.2011 - 03:16:02] Starting to insert all auctions into the database
+[09.29.2011 - 03:16:14] Added 22366 auctions into the database
+[09.29.2011 - 03:16:14] Telling MASTER CONTROL to put the parser program on standby
+[09.29.2011 - 03:16:14] Parser completed in 13.62 seconds
+[09.29.2011 - 03:16:14] ---- SESSION END ----
+[09.29.2011 - 04:16:01] ---- SESSION BEGIN ----
+[09.29.2011 - 04:16:01] Established database connection
+[09.29.2011 - 04:16:01] Latest JSON dump is 1317284103
+[09.29.2011 - 04:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317284103.json
+[09.29.2011 - 04:16:01] Opened up the JSON file successfully
+[09.29.2011 - 04:16:01] Parsing through JSON file and adding each line to auctionsArray
+[09.29.2011 - 04:16:01] Done parsing through the file
+[09.29.2011 - 04:16:01] Converted array into string for JSON decoding preparation
+[09.29.2011 - 04:16:01] Begin JSON decode of auctionsString
+[09.29.2011 - 04:16:02] JSON decoding complete
+[09.29.2011 - 04:16:02] There are 22366 elements in the auction array
+[09.29.2011 - 04:16:02] Starting to insert all auctions into the database
+[09.29.2011 - 04:16:14] Added 22366 auctions into the database
+[09.29.2011 - 04:16:14] Telling MASTER CONTROL to put the parser program on standby
+[09.29.2011 - 04:16:14] Parser completed in 13.21 seconds
+[09.29.2011 - 04:16:14] ---- SESSION END ----
+[09.30.2011 - 00:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 00:31:01] Established database connection
+[09.30.2011 - 00:31:01] Latest JSON dump is 1317357004
+[09.30.2011 - 00:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317357004.json
+[09.30.2011 - 00:31:01] Opened up the JSON file successfully
+[09.30.2011 - 00:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 00:31:01] Done parsing through the file
+[09.30.2011 - 00:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 00:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 00:31:01] JSON decoding complete
+[09.30.2011 - 00:31:01] There are 20865 elements in the auction array
+[09.30.2011 - 00:31:01] Starting to insert all auctions into the database
+[09.30.2011 - 00:31:16] Added 20865 auctions into the database
+[09.30.2011 - 00:31:16] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 00:31:16] Parser completed in 14.81 seconds
+[09.30.2011 - 00:31:16] ---- SESSION END ----
+[09.30.2011 - 01:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 01:31:01] Established database connection
+[09.30.2011 - 01:31:01] Latest JSON dump is 1317360602
+[09.30.2011 - 01:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317360602.json
+[09.30.2011 - 01:31:01] Opened up the JSON file successfully
+[09.30.2011 - 01:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 01:31:01] Done parsing through the file
+[09.30.2011 - 01:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 01:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 01:31:01] JSON decoding complete
+[09.30.2011 - 01:31:01] There are  elements in the auction array
+[09.30.2011 - 01:31:01] Starting to insert all auctions into the database
+[09.30.2011 - 01:31:01] Added  auctions into the database
+[09.30.2011 - 01:31:01] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 01:31:01] Parser completed in 0.00 seconds
+[09.30.2011 - 01:31:01] ---- SESSION END ----
+[09.30.2011 - 02:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 02:31:01] Established database connection
+[09.30.2011 - 02:31:01] Latest JSON dump is 1317364203
+[09.30.2011 - 02:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317364203.json
+[09.30.2011 - 02:31:01] Opened up the JSON file successfully
+[09.30.2011 - 02:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 02:31:01] Done parsing through the file
+[09.30.2011 - 02:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 02:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 02:31:02] JSON decoding complete
+[09.30.2011 - 02:31:02] There are 20077 elements in the auction array
+[09.30.2011 - 02:31:02] Starting to insert all auctions into the database
+[09.30.2011 - 02:31:14] Added 20077 auctions into the database
+[09.30.2011 - 02:31:14] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 02:31:14] Parser completed in 13.32 seconds
+[09.30.2011 - 02:31:14] ---- SESSION END ----
+[09.30.2011 - 03:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 03:31:01] Established database connection
+[09.30.2011 - 03:31:01] Latest JSON dump is 1317367802
+[09.30.2011 - 03:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317367802.json
+[09.30.2011 - 03:31:01] Opened up the JSON file successfully
+[09.30.2011 - 03:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 03:31:01] Done parsing through the file
+[09.30.2011 - 03:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 03:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 03:31:01] JSON decoding complete
+[09.30.2011 - 03:31:01] There are  elements in the auction array
+[09.30.2011 - 03:31:01] Starting to insert all auctions into the database
+[09.30.2011 - 03:31:01] Added  auctions into the database
+[09.30.2011 - 03:31:01] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 03:31:01] Parser completed in 0.00 seconds
+[09.30.2011 - 03:31:01] ---- SESSION END ----
+[09.30.2011 - 04:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 04:31:01] Established database connection
+[09.30.2011 - 04:31:01] Latest JSON dump is 1317371403
+[09.30.2011 - 04:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317371403.json
+[09.30.2011 - 04:31:01] Opened up the JSON file successfully
+[09.30.2011 - 04:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 04:31:01] Done parsing through the file
+[09.30.2011 - 04:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 04:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 04:31:02] JSON decoding complete
+[09.30.2011 - 04:31:02] There are 19669 elements in the auction array
+[09.30.2011 - 04:31:02] Starting to insert all auctions into the database
+[09.30.2011 - 04:31:13] Added 19669 auctions into the database
+[09.30.2011 - 04:31:13] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 04:31:13] Parser completed in 12.49 seconds
+[09.30.2011 - 04:31:13] ---- SESSION END ----
+[09.30.2011 - 05:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 05:31:01] Established database connection
+[09.30.2011 - 05:31:01] Latest JSON dump is 1317375002
+[09.30.2011 - 05:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317375002.json
+[09.30.2011 - 05:31:01] Opened up the JSON file successfully
+[09.30.2011 - 05:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 05:31:01] Done parsing through the file
+[09.30.2011 - 05:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 05:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 05:31:01] JSON decoding complete
+[09.30.2011 - 05:31:01] There are  elements in the auction array
+[09.30.2011 - 05:31:01] Starting to insert all auctions into the database
+[09.30.2011 - 05:31:01] Added  auctions into the database
+[09.30.2011 - 05:31:01] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 05:31:01] Parser completed in 0.00 seconds
+[09.30.2011 - 05:31:01] ---- SESSION END ----
+[09.30.2011 - 06:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 06:31:01] Established database connection
+[09.30.2011 - 06:31:01] Latest JSON dump is 1317378603
+[09.30.2011 - 06:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317378603.json
+[09.30.2011 - 06:31:01] Opened up the JSON file successfully
+[09.30.2011 - 06:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 06:31:01] Done parsing through the file
+[09.30.2011 - 06:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 06:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 06:31:01] JSON decoding complete
+[09.30.2011 - 06:31:01] There are 18753 elements in the auction array
+[09.30.2011 - 06:31:01] Starting to insert all auctions into the database
+[09.30.2011 - 06:31:12] Added 18753 auctions into the database
+[09.30.2011 - 06:31:12] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 06:31:12] Parser completed in 10.68 seconds
+[09.30.2011 - 06:31:12] ---- SESSION END ----
+[09.30.2011 - 07:31:01] ---- SESSION BEGIN ----
+[09.30.2011 - 07:31:01] Established database connection
+[09.30.2011 - 07:31:01] Latest JSON dump is 1317382202
+[09.30.2011 - 07:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317382202.json
+[09.30.2011 - 07:31:01] Opened up the JSON file successfully
+[09.30.2011 - 07:31:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 07:31:01] Done parsing through the file
+[09.30.2011 - 07:31:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 07:31:01] Begin JSON decode of auctionsString
+[09.30.2011 - 07:31:01] JSON decoding complete
+[09.30.2011 - 07:31:01] There are  elements in the auction array
+[09.30.2011 - 07:31:01] Starting to insert all auctions into the database
+[09.30.2011 - 07:31:01] Added  auctions into the database
+[09.30.2011 - 07:31:01] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 07:31:01] Parser completed in 0.00 seconds
+[09.30.2011 - 07:31:01] ---- SESSION END ----
+[09.30.2011 - 08:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 08:46:01] Established database connection
+[09.30.2011 - 08:46:01] Latest JSON dump is 1317386703
+[09.30.2011 - 08:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317386703.json
+[09.30.2011 - 08:46:01] Opened up the JSON file successfully
+[09.30.2011 - 08:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 08:46:01] Done parsing through the file
+[09.30.2011 - 08:46:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 08:46:01] Begin JSON decode of auctionsString
+[09.30.2011 - 08:46:02] JSON decoding complete
+[09.30.2011 - 08:46:02] There are 17940 elements in the auction array
+[09.30.2011 - 08:46:02] Starting to insert all auctions into the database
+[09.30.2011 - 08:46:12] Added 17940 auctions into the database
+[09.30.2011 - 08:46:12] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 08:46:12] Parser completed in 10.22 seconds
+[09.30.2011 - 08:46:12] ---- SESSION END ----
+[09.30.2011 - 09:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 09:46:01] Established database connection
+[09.30.2011 - 09:46:01] Latest JSON dump is 1317390303
+[09.30.2011 - 09:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317390303.json
+[09.30.2011 - 09:46:01] Opened up the JSON file successfully
+[09.30.2011 - 09:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 09:46:01] Done parsing through the file
+[09.30.2011 - 09:46:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 09:46:01] Begin JSON decode of auctionsString
+[09.30.2011 - 09:46:02] JSON decoding complete
+[09.30.2011 - 09:46:02] There are 17610 elements in the auction array
+[09.30.2011 - 09:46:02] Starting to insert all auctions into the database
+[09.30.2011 - 09:46:11] Added 17610 auctions into the database
+[09.30.2011 - 09:46:11] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 09:46:11] Parser completed in 9.74 seconds
+[09.30.2011 - 09:46:11] ---- SESSION END ----
+[09.30.2011 - 10:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 10:46:01] Established database connection
+[09.30.2011 - 10:46:01] Latest JSON dump is 1317393903
+[09.30.2011 - 10:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317393903.json
+[09.30.2011 - 10:46:01] Opened up the JSON file successfully
+[09.30.2011 - 10:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 10:46:01] Done parsing through the file
+[09.30.2011 - 10:46:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 10:46:01] Begin JSON decode of auctionsString
+[09.30.2011 - 10:46:02] JSON decoding complete
+[09.30.2011 - 10:46:02] There are 17416 elements in the auction array
+[09.30.2011 - 10:46:02] Starting to insert all auctions into the database
+[09.30.2011 - 10:46:11] Added 17416 auctions into the database
+[09.30.2011 - 10:46:11] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 10:46:11] Parser completed in 10.08 seconds
+[09.30.2011 - 10:46:11] ---- SESSION END ----
+[09.30.2011 - 11:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 11:46:01] Established database connection
+[09.30.2011 - 11:46:01] Latest JSON dump is 1317397502
+[09.30.2011 - 11:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317397502.json
+[09.30.2011 - 11:46:01] Opened up the JSON file successfully
+[09.30.2011 - 11:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 11:46:01] Done parsing through the file
+[09.30.2011 - 11:46:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 11:46:01] Begin JSON decode of auctionsString
+[09.30.2011 - 11:46:01] JSON decoding complete
+[09.30.2011 - 11:46:01] There are  elements in the auction array
+[09.30.2011 - 11:46:01] Starting to insert all auctions into the database
+[09.30.2011 - 11:46:01] Added  auctions into the database
+[09.30.2011 - 11:46:01] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 11:46:01] Parser completed in 0.00 seconds
+[09.30.2011 - 11:46:01] ---- SESSION END ----
+[09.30.2011 - 12:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 12:46:01] Established database connection
+[09.30.2011 - 12:46:01] Latest JSON dump is 1317401103
+[09.30.2011 - 12:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317401103.json
+[09.30.2011 - 12:46:01] Opened up the JSON file successfully
+[09.30.2011 - 12:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 12:46:01] Done parsing through the file
+[09.30.2011 - 12:46:01] Converted array into string for JSON decoding preparation
+[09.30.2011 - 12:46:01] Begin JSON decode of auctionsString
+[09.30.2011 - 12:46:01] JSON decoding complete
+[09.30.2011 - 12:46:01] There are 16944 elements in the auction array
+[09.30.2011 - 12:46:01] Starting to insert all auctions into the database
+[09.30.2011 - 12:46:11] Added 16944 auctions into the database
+[09.30.2011 - 12:46:11] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 12:46:11] Parser completed in 10.35 seconds
+[09.30.2011 - 12:46:11] ---- SESSION END ----
+[09.30.2011 - 13:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 13:46:01] Established database connection
+[09.30.2011 - 13:46:01] Latest JSON dump is 1317404703
+[09.30.2011 - 13:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317404703.json
+[09.30.2011 - 13:46:01] Opened up the JSON file successfully
+[09.30.2011 - 13:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 13:46:02] Done parsing through the file
+[09.30.2011 - 13:46:02] Converted array into string for JSON decoding preparation
+[09.30.2011 - 13:46:02] Begin JSON decode of auctionsString
+[09.30.2011 - 13:46:02] JSON decoding complete
+[09.30.2011 - 13:46:02] There are 17017 elements in the auction array
+[09.30.2011 - 13:46:02] Starting to insert all auctions into the database
+[09.30.2011 - 13:46:11] Added 17017 auctions into the database
+[09.30.2011 - 13:46:11] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 13:46:11] Parser completed in 9.69 seconds
+[09.30.2011 - 13:46:11] ---- SESSION END ----
+[09.30.2011 - 14:46:01] ---- SESSION BEGIN ----
+[09.30.2011 - 14:46:01] Established database connection
+[09.30.2011 - 14:46:01] Latest JSON dump is 1317408303
+[09.30.2011 - 14:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1317408303.json
+[09.30.2011 - 14:46:01] Opened up the JSON file successfully
+[09.30.2011 - 14:46:01] Parsing through JSON file and adding each line to auctionsArray
+[09.30.2011 - 14:46:01] Done parsing through the file
+[09.30.2011 - 14:46:02] Converted array into string for JSON decoding preparation
+[09.30.2011 - 14:46:02] Begin JSON decode of auctionsString
+[09.30.2011 - 14:46:02] JSON decoding complete
+[09.30.2011 - 14:46:02] There are 17087 elements in the auction array
+[09.30.2011 - 14:46:02] Starting to insert all auctions into the database
+[09.30.2011 - 14:46:13] Added 17087 auctions into the database
+[09.30.2011 - 14:46:13] Telling MASTER CONTROL to put the parser program on standby
+[09.30.2011 - 14:46:13] Parser completed in 11.37 seconds
+[09.30.2011 - 14:46:13] ---- SESSION END ----
+[12.25.2011 - 14:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 14:01:01] Established database connection
+[12.25.2011 - 14:01:01] Latest JSON dump is 1324839603
+[12.25.2011 - 14:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324839603.json
+[12.25.2011 - 14:01:01] Opened up the JSON file successfully
+[12.25.2011 - 14:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 14:01:02] Done parsing through the file
+[12.25.2011 - 14:01:02] Converted array into string for JSON decoding preparation
+[12.25.2011 - 14:01:02] Begin JSON decode of auctionsString
+[12.25.2011 - 14:01:02] JSON decoding complete
+[12.25.2011 - 14:01:02] There are 17465 elements in the auction array
+[12.25.2011 - 14:01:02] Starting to insert all auctions into the database
+[12.25.2011 - 14:01:11] Added 17465 auctions into the database
+[12.25.2011 - 14:01:11] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 14:01:11] Parser completed in 9.85 seconds
+[12.25.2011 - 14:01:11] ---- SESSION END ----
+[12.25.2011 - 15:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 15:01:01] Established database connection
+[12.25.2011 - 15:01:01] Latest JSON dump is 1324843202
+[12.25.2011 - 15:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324843202.json
+[12.25.2011 - 15:01:01] Opened up the JSON file successfully
+[12.25.2011 - 15:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 15:01:01] Done parsing through the file
+[12.25.2011 - 15:01:01] Converted array into string for JSON decoding preparation
+[12.25.2011 - 15:01:01] Begin JSON decode of auctionsString
+[12.25.2011 - 15:01:01] JSON decoding complete
+[12.25.2011 - 15:01:01] There are  elements in the auction array
+[12.25.2011 - 15:01:01] Starting to insert all auctions into the database
+[12.25.2011 - 15:01:01] Added  auctions into the database
+[12.25.2011 - 15:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 15:01:01] Parser completed in 0.00 seconds
+[12.25.2011 - 15:01:01] ---- SESSION END ----
+[12.25.2011 - 16:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 16:01:01] Established database connection
+[12.25.2011 - 16:01:01] Latest JSON dump is 1324846803
+[12.25.2011 - 16:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324846803.json
+[12.25.2011 - 16:01:01] Opened up the JSON file successfully
+[12.25.2011 - 16:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 16:01:02] Done parsing through the file
+[12.25.2011 - 16:01:02] Converted array into string for JSON decoding preparation
+[12.25.2011 - 16:01:02] Begin JSON decode of auctionsString
+[12.25.2011 - 16:01:02] JSON decoding complete
+[12.25.2011 - 16:01:02] There are 17703 elements in the auction array
+[12.25.2011 - 16:01:02] Starting to insert all auctions into the database
+[12.25.2011 - 16:01:11] Added 17703 auctions into the database
+[12.25.2011 - 16:01:11] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 16:01:11] Parser completed in 9.68 seconds
+[12.25.2011 - 16:01:11] ---- SESSION END ----
+[12.25.2011 - 17:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 17:01:01] Established database connection
+[12.25.2011 - 17:01:01] Latest JSON dump is 1324850403
+[12.25.2011 - 17:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324850403.json
+[12.25.2011 - 17:01:01] Opened up the JSON file successfully
+[12.25.2011 - 17:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 17:01:02] Done parsing through the file
+[12.25.2011 - 17:01:02] Converted array into string for JSON decoding preparation
+[12.25.2011 - 17:01:02] Begin JSON decode of auctionsString
+[12.25.2011 - 17:01:02] JSON decoding complete
+[12.25.2011 - 17:01:02] There are 17628 elements in the auction array
+[12.25.2011 - 17:01:02] Starting to insert all auctions into the database
+[12.25.2011 - 17:01:11] Added 17628 auctions into the database
+[12.25.2011 - 17:01:11] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 17:01:11] Parser completed in 9.79 seconds
+[12.25.2011 - 17:01:11] ---- SESSION END ----
+[12.25.2011 - 18:01:02] ---- SESSION BEGIN ----
+[12.25.2011 - 18:01:02] Established database connection
+[12.25.2011 - 18:01:02] Latest JSON dump is 1324854003
+[12.25.2011 - 18:01:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324854003.json
+[12.25.2011 - 18:01:02] Opened up the JSON file successfully
+[12.25.2011 - 18:01:02] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 18:01:02] Done parsing through the file
+[12.25.2011 - 18:01:02] Converted array into string for JSON decoding preparation
+[12.25.2011 - 18:01:02] Begin JSON decode of auctionsString
+[12.25.2011 - 18:01:02] JSON decoding complete
+[12.25.2011 - 18:01:02] There are 17776 elements in the auction array
+[12.25.2011 - 18:01:02] Starting to insert all auctions into the database
+[12.25.2011 - 18:01:13] Added 17776 auctions into the database
+[12.25.2011 - 18:01:13] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 18:01:13] Parser completed in 11.12 seconds
+[12.25.2011 - 18:01:13] ---- SESSION END ----
+[12.25.2011 - 19:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 19:01:01] Established database connection
+[12.25.2011 - 19:01:01] Latest JSON dump is 1324857603
+[12.25.2011 - 19:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324857603.json
+[12.25.2011 - 19:01:01] Opened up the JSON file successfully
+[12.25.2011 - 19:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 19:01:01] Done parsing through the file
+[12.25.2011 - 19:01:01] Converted array into string for JSON decoding preparation
+[12.25.2011 - 19:01:01] Begin JSON decode of auctionsString
+[12.25.2011 - 19:01:02] JSON decoding complete
+[12.25.2011 - 19:01:02] There are 17742 elements in the auction array
+[12.25.2011 - 19:01:02] Starting to insert all auctions into the database
+[12.25.2011 - 19:01:11] Added 17742 auctions into the database
+[12.25.2011 - 19:01:11] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 19:01:11] Parser completed in 10.49 seconds
+[12.25.2011 - 19:01:11] ---- SESSION END ----
+[12.25.2011 - 20:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 20:01:01] Established database connection
+[12.25.2011 - 20:01:01] Latest JSON dump is 1324861202
+[12.25.2011 - 20:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324861202.json
+[12.25.2011 - 20:01:01] Opened up the JSON file successfully
+[12.25.2011 - 20:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 20:01:01] Done parsing through the file
+[12.25.2011 - 20:01:01] Converted array into string for JSON decoding preparation
+[12.25.2011 - 20:01:01] Begin JSON decode of auctionsString
+[12.25.2011 - 20:01:01] JSON decoding complete
+[12.25.2011 - 20:01:01] There are  elements in the auction array
+[12.25.2011 - 20:01:01] Starting to insert all auctions into the database
+[12.25.2011 - 20:01:01] Added  auctions into the database
+[12.25.2011 - 20:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 20:01:01] Parser completed in 0.00 seconds
+[12.25.2011 - 20:01:01] ---- SESSION END ----
+[12.25.2011 - 21:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 21:01:01] Established database connection
+[12.25.2011 - 21:01:01] Latest JSON dump is 1324864802
+[12.25.2011 - 21:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324864802.json
+[12.25.2011 - 21:01:01] Opened up the JSON file successfully
+[12.25.2011 - 21:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 21:01:01] Done parsing through the file
+[12.25.2011 - 21:01:01] Converted array into string for JSON decoding preparation
+[12.25.2011 - 21:01:01] Begin JSON decode of auctionsString
+[12.25.2011 - 21:01:01] JSON decoding complete
+[12.25.2011 - 21:01:01] There are  elements in the auction array
+[12.25.2011 - 21:01:01] Starting to insert all auctions into the database
+[12.25.2011 - 21:01:01] Added  auctions into the database
+[12.25.2011 - 21:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 21:01:01] Parser completed in 0.00 seconds
+[12.25.2011 - 21:01:01] ---- SESSION END ----
+[12.25.2011 - 22:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 22:01:01] Established database connection
+[12.25.2011 - 22:01:01] Latest JSON dump is 1324868402
+[12.25.2011 - 22:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324868402.json
+[12.25.2011 - 22:01:01] Opened up the JSON file successfully
+[12.25.2011 - 22:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 22:01:01] Done parsing through the file
+[12.25.2011 - 22:01:01] Converted array into string for JSON decoding preparation
+[12.25.2011 - 22:01:01] Begin JSON decode of auctionsString
+[12.25.2011 - 22:01:01] JSON decoding complete
+[12.25.2011 - 22:01:01] There are  elements in the auction array
+[12.25.2011 - 22:01:01] Starting to insert all auctions into the database
+[12.25.2011 - 22:01:01] Added  auctions into the database
+[12.25.2011 - 22:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 22:01:01] Parser completed in 0.01 seconds
+[12.25.2011 - 22:01:01] ---- SESSION END ----
+[12.25.2011 - 23:01:01] ---- SESSION BEGIN ----
+[12.25.2011 - 23:01:01] Established database connection
+[12.25.2011 - 23:01:01] Latest JSON dump is 1324872002
+[12.25.2011 - 23:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324872002.json
+[12.25.2011 - 23:01:01] Opened up the JSON file successfully
+[12.25.2011 - 23:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.25.2011 - 23:01:01] Done parsing through the file
+[12.25.2011 - 23:01:01] Converted array into string for JSON decoding preparation
+[12.25.2011 - 23:01:01] Begin JSON decode of auctionsString
+[12.25.2011 - 23:01:01] JSON decoding complete
+[12.25.2011 - 23:01:01] There are  elements in the auction array
+[12.25.2011 - 23:01:01] Starting to insert all auctions into the database
+[12.25.2011 - 23:01:01] Added  auctions into the database
+[12.25.2011 - 23:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.25.2011 - 23:01:01] Parser completed in 0.00 seconds
+[12.25.2011 - 23:01:01] ---- SESSION END ----
+[12.26.2011 - 00:01:01] ---- SESSION BEGIN ----
+[12.26.2011 - 00:01:01] Established database connection
+[12.26.2011 - 00:01:01] Latest JSON dump is 1324875602
+[12.26.2011 - 00:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324875602.json
+[12.26.2011 - 00:01:01] Opened up the JSON file successfully
+[12.26.2011 - 00:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 00:01:01] Done parsing through the file
+[12.26.2011 - 00:01:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 00:01:01] Begin JSON decode of auctionsString
+[12.26.2011 - 00:01:01] JSON decoding complete
+[12.26.2011 - 00:01:01] There are  elements in the auction array
+[12.26.2011 - 00:01:01] Starting to insert all auctions into the database
+[12.26.2011 - 00:01:01] Added  auctions into the database
+[12.26.2011 - 00:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 00:01:01] Parser completed in 0.00 seconds
+[12.26.2011 - 00:01:01] ---- SESSION END ----
+[12.26.2011 - 01:01:01] ---- SESSION BEGIN ----
+[12.26.2011 - 01:01:01] Established database connection
+[12.26.2011 - 01:01:01] Latest JSON dump is 1324879203
+[12.26.2011 - 01:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324879203.json
+[12.26.2011 - 01:01:01] Opened up the JSON file successfully
+[12.26.2011 - 01:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 01:01:01] Done parsing through the file
+[12.26.2011 - 01:01:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 01:01:01] Begin JSON decode of auctionsString
+[12.26.2011 - 01:01:02] JSON decoding complete
+[12.26.2011 - 01:01:02] There are 18053 elements in the auction array
+[12.26.2011 - 01:01:02] Starting to insert all auctions into the database
+[12.26.2011 - 01:01:11] Added 18053 auctions into the database
+[12.26.2011 - 01:01:11] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 01:01:11] Parser completed in 10.04 seconds
+[12.26.2011 - 01:01:11] ---- SESSION END ----
+[12.26.2011 - 02:01:02] ---- SESSION BEGIN ----
+[12.26.2011 - 02:01:02] Established database connection
+[12.26.2011 - 02:01:02] Latest JSON dump is 1324882803
+[12.26.2011 - 02:01:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324882803.json
+[12.26.2011 - 02:01:02] Opened up the JSON file successfully
+[12.26.2011 - 02:01:02] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 02:01:02] Done parsing through the file
+[12.26.2011 - 02:01:02] Converted array into string for JSON decoding preparation
+[12.26.2011 - 02:01:02] Begin JSON decode of auctionsString
+[12.26.2011 - 02:01:02] JSON decoding complete
+[12.26.2011 - 02:01:02] There are 17934 elements in the auction array
+[12.26.2011 - 02:01:02] Starting to insert all auctions into the database
+[12.26.2011 - 02:01:12] Added 17934 auctions into the database
+[12.26.2011 - 02:01:12] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 02:01:12] Parser completed in 10.10 seconds
+[12.26.2011 - 02:01:12] ---- SESSION END ----
+[12.26.2011 - 03:01:01] ---- SESSION BEGIN ----
+[12.26.2011 - 03:01:01] Established database connection
+[12.26.2011 - 03:01:01] Latest JSON dump is 1324886403
+[12.26.2011 - 03:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324886403.json
+[12.26.2011 - 03:01:01] Opened up the JSON file successfully
+[12.26.2011 - 03:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 03:01:01] Done parsing through the file
+[12.26.2011 - 03:01:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 03:01:01] Begin JSON decode of auctionsString
+[12.26.2011 - 03:01:01] JSON decoding complete
+[12.26.2011 - 03:01:01] There are 17459 elements in the auction array
+[12.26.2011 - 03:01:01] Starting to insert all auctions into the database
+[12.26.2011 - 03:01:11] Added 17459 auctions into the database
+[12.26.2011 - 03:01:11] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 03:01:11] Parser completed in 10.25 seconds
+[12.26.2011 - 03:01:11] ---- SESSION END ----
+[12.26.2011 - 04:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 04:16:01] Established database connection
+[12.26.2011 - 04:16:01] Latest JSON dump is 1324890902
+[12.26.2011 - 04:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324890902.json
+[12.26.2011 - 04:16:01] Opened up the JSON file successfully
+[12.26.2011 - 04:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 04:16:01] Done parsing through the file
+[12.26.2011 - 04:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 04:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 04:16:01] JSON decoding complete
+[12.26.2011 - 04:16:01] There are  elements in the auction array
+[12.26.2011 - 04:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 04:16:01] Added  auctions into the database
+[12.26.2011 - 04:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 04:16:01] Parser completed in 0.00 seconds
+[12.26.2011 - 04:16:01] ---- SESSION END ----
+[12.26.2011 - 05:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 05:16:01] Established database connection
+[12.26.2011 - 05:16:01] Latest JSON dump is 1324894503
+[12.26.2011 - 05:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324894503.json
+[12.26.2011 - 05:16:01] Opened up the JSON file successfully
+[12.26.2011 - 05:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 05:16:01] Done parsing through the file
+[12.26.2011 - 05:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 05:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 05:16:01] JSON decoding complete
+[12.26.2011 - 05:16:02] There are 16525 elements in the auction array
+[12.26.2011 - 05:16:02] Starting to insert all auctions into the database
+[12.26.2011 - 05:16:10] Added 16525 auctions into the database
+[12.26.2011 - 05:16:10] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 05:16:10] Parser completed in 9.20 seconds
+[12.26.2011 - 05:16:10] ---- SESSION END ----
+[12.26.2011 - 06:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 06:16:01] Established database connection
+[12.26.2011 - 06:16:01] Latest JSON dump is 1324898101
+[12.26.2011 - 06:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324898101.json
+[12.26.2011 - 06:16:01] Opened up the JSON file successfully
+[12.26.2011 - 06:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 06:16:01] Done parsing through the file
+[12.26.2011 - 06:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 06:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 06:16:01] JSON decoding complete
+[12.26.2011 - 06:16:01] There are  elements in the auction array
+[12.26.2011 - 06:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 06:16:01] Added  auctions into the database
+[12.26.2011 - 06:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 06:16:01] Parser completed in 0.00 seconds
+[12.26.2011 - 06:16:01] ---- SESSION END ----
+[12.26.2011 - 07:16:02] ---- SESSION BEGIN ----
+[12.26.2011 - 07:16:02] Established database connection
+[12.26.2011 - 07:16:02] Latest JSON dump is 1324901701
+[12.26.2011 - 07:16:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324901701.json
+[12.26.2011 - 07:16:02] Opened up the JSON file successfully
+[12.26.2011 - 07:16:02] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 07:16:02] Done parsing through the file
+[12.26.2011 - 07:16:02] Converted array into string for JSON decoding preparation
+[12.26.2011 - 07:16:02] Begin JSON decode of auctionsString
+[12.26.2011 - 07:16:02] JSON decoding complete
+[12.26.2011 - 07:16:02] There are  elements in the auction array
+[12.26.2011 - 07:16:02] Starting to insert all auctions into the database
+[12.26.2011 - 07:16:02] Added  auctions into the database
+[12.26.2011 - 07:16:02] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 07:16:02] Parser completed in 0.01 seconds
+[12.26.2011 - 07:16:02] ---- SESSION END ----
+[12.26.2011 - 08:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 08:16:01] Established database connection
+[12.26.2011 - 08:16:01] Latest JSON dump is 1324905303
+[12.26.2011 - 08:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324905303.json
+[12.26.2011 - 08:16:01] Opened up the JSON file successfully
+[12.26.2011 - 08:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 08:16:01] Done parsing through the file
+[12.26.2011 - 08:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 08:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 08:16:01] JSON decoding complete
+[12.26.2011 - 08:16:01] There are 16638 elements in the auction array
+[12.26.2011 - 08:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 08:16:10] Added 16638 auctions into the database
+[12.26.2011 - 08:16:10] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 08:16:10] Parser completed in 9.31 seconds
+[12.26.2011 - 08:16:10] ---- SESSION END ----
+[12.26.2011 - 09:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 09:16:01] Established database connection
+[12.26.2011 - 09:16:01] Latest JSON dump is 1324908902
+[12.26.2011 - 09:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324908902.json
+[12.26.2011 - 09:16:01] Opened up the JSON file successfully
+[12.26.2011 - 09:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 09:16:01] Done parsing through the file
+[12.26.2011 - 09:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 09:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 09:16:01] JSON decoding complete
+[12.26.2011 - 09:16:01] There are  elements in the auction array
+[12.26.2011 - 09:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 09:16:01] Added  auctions into the database
+[12.26.2011 - 09:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 09:16:01] Parser completed in 0.01 seconds
+[12.26.2011 - 09:16:01] ---- SESSION END ----
+[12.26.2011 - 10:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 10:16:01] Established database connection
+[12.26.2011 - 10:16:01] Latest JSON dump is 1324912502
+[12.26.2011 - 10:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324912502.json
+[12.26.2011 - 10:16:01] Opened up the JSON file successfully
+[12.26.2011 - 10:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 10:16:01] Done parsing through the file
+[12.26.2011 - 10:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 10:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 10:16:01] JSON decoding complete
+[12.26.2011 - 10:16:01] There are  elements in the auction array
+[12.26.2011 - 10:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 10:16:01] Added  auctions into the database
+[12.26.2011 - 10:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 10:16:01] Parser completed in 0.01 seconds
+[12.26.2011 - 10:16:01] ---- SESSION END ----
+[12.26.2011 - 11:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 11:16:01] Established database connection
+[12.26.2011 - 11:16:01] Latest JSON dump is 1324916103
+[12.26.2011 - 11:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324916103.json
+[12.26.2011 - 11:16:01] Opened up the JSON file successfully
+[12.26.2011 - 11:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 11:16:01] Done parsing through the file
+[12.26.2011 - 11:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 11:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 11:16:02] JSON decoding complete
+[12.26.2011 - 11:16:02] There are 18247 elements in the auction array
+[12.26.2011 - 11:16:02] Starting to insert all auctions into the database
+[12.26.2011 - 11:16:11] Added 18247 auctions into the database
+[12.26.2011 - 11:16:11] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 11:16:11] Parser completed in 9.96 seconds
+[12.26.2011 - 11:16:11] ---- SESSION END ----
+[12.26.2011 - 12:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 12:16:01] Established database connection
+[12.26.2011 - 12:16:01] Latest JSON dump is 1324919703
+[12.26.2011 - 12:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324919703.json
+[12.26.2011 - 12:16:01] Opened up the JSON file successfully
+[12.26.2011 - 12:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 12:16:01] Done parsing through the file
+[12.26.2011 - 12:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 12:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 12:16:02] JSON decoding complete
+[12.26.2011 - 12:16:02] There are 18401 elements in the auction array
+[12.26.2011 - 12:16:02] Starting to insert all auctions into the database
+[12.26.2011 - 12:16:12] Added 18401 auctions into the database
+[12.26.2011 - 12:16:12] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 12:16:12] Parser completed in 10.23 seconds
+[12.26.2011 - 12:16:12] ---- SESSION END ----
+[12.26.2011 - 13:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 13:16:01] Established database connection
+[12.26.2011 - 13:16:01] Latest JSON dump is 1324923301
+[12.26.2011 - 13:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324923301.json
+[12.26.2011 - 13:16:01] Opened up the JSON file successfully
+[12.26.2011 - 13:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 13:16:01] Done parsing through the file
+[12.26.2011 - 13:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 13:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 13:16:01] JSON decoding complete
+[12.26.2011 - 13:16:01] There are  elements in the auction array
+[12.26.2011 - 13:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 13:16:01] Added  auctions into the database
+[12.26.2011 - 13:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 13:16:01] Parser completed in 0.00 seconds
+[12.26.2011 - 13:16:01] ---- SESSION END ----
+[12.26.2011 - 14:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 14:16:01] Established database connection
+[12.26.2011 - 14:16:01] Latest JSON dump is 1324926904
+[12.26.2011 - 14:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324926904.json
+[12.26.2011 - 14:16:01] Opened up the JSON file successfully
+[12.26.2011 - 14:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 14:16:01] Done parsing through the file
+[12.26.2011 - 14:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 14:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 14:16:01] JSON decoding complete
+[12.26.2011 - 14:16:01] There are 19528 elements in the auction array
+[12.26.2011 - 14:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 14:16:12] Added 19528 auctions into the database
+[12.26.2011 - 14:16:12] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 14:16:12] Parser completed in 10.79 seconds
+[12.26.2011 - 14:16:12] ---- SESSION END ----
+[12.26.2011 - 15:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 15:16:01] Established database connection
+[12.26.2011 - 15:16:01] Latest JSON dump is 1324930503
+[12.26.2011 - 15:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324930503.json
+[12.26.2011 - 15:16:01] Opened up the JSON file successfully
+[12.26.2011 - 15:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 15:16:01] Done parsing through the file
+[12.26.2011 - 15:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 15:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 15:16:01] JSON decoding complete
+[12.26.2011 - 15:16:01] There are 19967 elements in the auction array
+[12.26.2011 - 15:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 15:16:12] Added 19967 auctions into the database
+[12.26.2011 - 15:16:12] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 15:16:12] Parser completed in 10.92 seconds
+[12.26.2011 - 15:16:12] ---- SESSION END ----
+[12.26.2011 - 16:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 16:16:01] Established database connection
+[12.26.2011 - 16:16:01] Latest JSON dump is 1324934103
+[12.26.2011 - 16:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324934103.json
+[12.26.2011 - 16:16:01] Opened up the JSON file successfully
+[12.26.2011 - 16:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 16:16:01] Done parsing through the file
+[12.26.2011 - 16:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 16:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 16:16:02] JSON decoding complete
+[12.26.2011 - 16:16:02] There are 20678 elements in the auction array
+[12.26.2011 - 16:16:02] Starting to insert all auctions into the database
+[12.26.2011 - 16:16:13] Added 20678 auctions into the database
+[12.26.2011 - 16:16:13] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 16:16:13] Parser completed in 11.52 seconds
+[12.26.2011 - 16:16:13] ---- SESSION END ----
+[12.26.2011 - 17:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 17:16:01] Established database connection
+[12.26.2011 - 17:16:01] Latest JSON dump is 1324937704
+[12.26.2011 - 17:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324937704.json
+[12.26.2011 - 17:16:01] Opened up the JSON file successfully
+[12.26.2011 - 17:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 17:16:01] Done parsing through the file
+[12.26.2011 - 17:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 17:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 17:16:01] JSON decoding complete
+[12.26.2011 - 17:16:01] There are 21034 elements in the auction array
+[12.26.2011 - 17:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 17:16:12] Added 21034 auctions into the database
+[12.26.2011 - 17:16:12] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 17:16:12] Parser completed in 11.65 seconds
+[12.26.2011 - 17:16:12] ---- SESSION END ----
+[12.26.2011 - 18:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 18:16:01] Established database connection
+[12.26.2011 - 18:16:01] Latest JSON dump is 1324941304
+[12.26.2011 - 18:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324941304.json
+[12.26.2011 - 18:16:01] Opened up the JSON file successfully
+[12.26.2011 - 18:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 18:16:01] Done parsing through the file
+[12.26.2011 - 18:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 18:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 18:16:02] JSON decoding complete
+[12.26.2011 - 18:16:02] There are 22145 elements in the auction array
+[12.26.2011 - 18:16:02] Starting to insert all auctions into the database
+[12.26.2011 - 18:16:13] Added 22145 auctions into the database
+[12.26.2011 - 18:16:13] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 18:16:13] Parser completed in 12.15 seconds
+[12.26.2011 - 18:16:13] ---- SESSION END ----
+[12.26.2011 - 19:16:01] ---- SESSION BEGIN ----
+[12.26.2011 - 19:16:01] Established database connection
+[12.26.2011 - 19:16:01] Latest JSON dump is 1324944904
+[12.26.2011 - 19:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324944904.json
+[12.26.2011 - 19:16:01] Opened up the JSON file successfully
+[12.26.2011 - 19:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 19:16:01] Done parsing through the file
+[12.26.2011 - 19:16:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 19:16:01] Begin JSON decode of auctionsString
+[12.26.2011 - 19:16:01] JSON decoding complete
+[12.26.2011 - 19:16:01] There are 22512 elements in the auction array
+[12.26.2011 - 19:16:01] Starting to insert all auctions into the database
+[12.26.2011 - 19:16:13] Added 22512 auctions into the database
+[12.26.2011 - 19:16:13] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 19:16:13] Parser completed in 12.36 seconds
+[12.26.2011 - 19:16:13] ---- SESSION END ----
+[12.26.2011 - 20:31:01] ---- SESSION BEGIN ----
+[12.26.2011 - 20:31:01] Established database connection
+[12.26.2011 - 20:31:01] Latest JSON dump is 1324949404
+[12.26.2011 - 20:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324949404.json
+[12.26.2011 - 20:31:01] Opened up the JSON file successfully
+[12.26.2011 - 20:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 20:31:01] Done parsing through the file
+[12.26.2011 - 20:31:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 20:31:01] Begin JSON decode of auctionsString
+[12.26.2011 - 20:31:01] JSON decoding complete
+[12.26.2011 - 20:31:01] There are 22403 elements in the auction array
+[12.26.2011 - 20:31:01] Starting to insert all auctions into the database
+[12.26.2011 - 20:31:14] Added 22403 auctions into the database
+[12.26.2011 - 20:31:14] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 20:31:14] Parser completed in 13.16 seconds
+[12.26.2011 - 20:31:14] ---- SESSION END ----
+[12.26.2011 - 21:31:01] ---- SESSION BEGIN ----
+[12.26.2011 - 21:31:01] Established database connection
+[12.26.2011 - 21:31:01] Latest JSON dump is 1324953004
+[12.26.2011 - 21:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324953004.json
+[12.26.2011 - 21:31:01] Opened up the JSON file successfully
+[12.26.2011 - 21:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 21:31:01] Done parsing through the file
+[12.26.2011 - 21:31:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 21:31:01] Begin JSON decode of auctionsString
+[12.26.2011 - 21:31:01] JSON decoding complete
+[12.26.2011 - 21:31:01] There are 23271 elements in the auction array
+[12.26.2011 - 21:31:01] Starting to insert all auctions into the database
+[12.26.2011 - 21:31:13] Added 23271 auctions into the database
+[12.26.2011 - 21:31:13] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 21:31:13] Parser completed in 12.84 seconds
+[12.26.2011 - 21:31:13] ---- SESSION END ----
+[12.26.2011 - 22:31:01] ---- SESSION BEGIN ----
+[12.26.2011 - 22:31:01] Established database connection
+[12.26.2011 - 22:31:01] Latest JSON dump is 1324956604
+[12.26.2011 - 22:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324956604.json
+[12.26.2011 - 22:31:01] Opened up the JSON file successfully
+[12.26.2011 - 22:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 22:31:01] Done parsing through the file
+[12.26.2011 - 22:31:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 22:31:01] Begin JSON decode of auctionsString
+[12.26.2011 - 22:31:01] JSON decoding complete
+[12.26.2011 - 22:31:02] There are 23070 elements in the auction array
+[12.26.2011 - 22:31:02] Starting to insert all auctions into the database
+[12.26.2011 - 22:31:19] Added 23070 auctions into the database
+[12.26.2011 - 22:31:19] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 22:31:19] Parser completed in 18.20 seconds
+[12.26.2011 - 22:31:19] ---- SESSION END ----
+[12.26.2011 - 23:31:01] ---- SESSION BEGIN ----
+[12.26.2011 - 23:31:01] Established database connection
+[12.26.2011 - 23:31:01] Latest JSON dump is 1324960204
+[12.26.2011 - 23:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324960204.json
+[12.26.2011 - 23:31:01] Opened up the JSON file successfully
+[12.26.2011 - 23:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.26.2011 - 23:31:01] Done parsing through the file
+[12.26.2011 - 23:31:01] Converted array into string for JSON decoding preparation
+[12.26.2011 - 23:31:01] Begin JSON decode of auctionsString
+[12.26.2011 - 23:31:02] JSON decoding complete
+[12.26.2011 - 23:31:02] There are 23967 elements in the auction array
+[12.26.2011 - 23:31:02] Starting to insert all auctions into the database
+[12.26.2011 - 23:31:15] Added 23967 auctions into the database
+[12.26.2011 - 23:31:15] Telling MASTER CONTROL to put the parser program on standby
+[12.26.2011 - 23:31:15] Parser completed in 13.77 seconds
+[12.26.2011 - 23:31:15] ---- SESSION END ----
+[12.27.2011 - 00:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 00:31:01] Established database connection
+[12.27.2011 - 00:31:01] Latest JSON dump is 1324963805
+[12.27.2011 - 00:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324963805.json
+[12.27.2011 - 00:31:01] Opened up the JSON file successfully
+[12.27.2011 - 00:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 00:31:01] Done parsing through the file
+[12.27.2011 - 00:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 00:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 00:31:02] JSON decoding complete
+[12.27.2011 - 00:31:02] There are 23748 elements in the auction array
+[12.27.2011 - 00:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 00:31:15] Added 23748 auctions into the database
+[12.27.2011 - 00:31:15] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 00:31:15] Parser completed in 14.06 seconds
+[12.27.2011 - 00:31:15] ---- SESSION END ----
+[12.27.2011 - 01:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 01:31:01] Established database connection
+[12.27.2011 - 01:31:01] Latest JSON dump is 1324967404
+[12.27.2011 - 01:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324967404.json
+[12.27.2011 - 01:31:01] Opened up the JSON file successfully
+[12.27.2011 - 01:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 01:31:01] Done parsing through the file
+[12.27.2011 - 01:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 01:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 01:31:02] JSON decoding complete
+[12.27.2011 - 01:31:02] There are 24147 elements in the auction array
+[12.27.2011 - 01:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 01:31:14] Added 24147 auctions into the database
+[12.27.2011 - 01:31:14] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 01:31:14] Parser completed in 13.46 seconds
+[12.27.2011 - 01:31:14] ---- SESSION END ----
+[12.27.2011 - 02:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 02:31:01] Established database connection
+[12.27.2011 - 02:31:01] Latest JSON dump is 1324971003
+[12.27.2011 - 02:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324971003.json
+[12.27.2011 - 02:31:01] Opened up the JSON file successfully
+[12.27.2011 - 02:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 02:31:01] Done parsing through the file
+[12.27.2011 - 02:31:02] Converted array into string for JSON decoding preparation
+[12.27.2011 - 02:31:02] Begin JSON decode of auctionsString
+[12.27.2011 - 02:31:02] JSON decoding complete
+[12.27.2011 - 02:31:02] There are 23941 elements in the auction array
+[12.27.2011 - 02:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 02:31:15] Added 23941 auctions into the database
+[12.27.2011 - 02:31:15] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 02:31:15] Parser completed in 13.26 seconds
+[12.27.2011 - 02:31:15] ---- SESSION END ----
+[12.27.2011 - 03:31:02] ---- SESSION BEGIN ----
+[12.27.2011 - 03:31:02] Established database connection
+[12.27.2011 - 03:31:02] Latest JSON dump is 1324974601
+[12.27.2011 - 03:31:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324974601.json
+[12.27.2011 - 03:31:02] Opened up the JSON file successfully
+[12.27.2011 - 03:31:02] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 03:31:02] Done parsing through the file
+[12.27.2011 - 03:31:02] Converted array into string for JSON decoding preparation
+[12.27.2011 - 03:31:02] Begin JSON decode of auctionsString
+[12.27.2011 - 03:31:02] JSON decoding complete
+[12.27.2011 - 03:31:02] There are  elements in the auction array
+[12.27.2011 - 03:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 03:31:02] Added  auctions into the database
+[12.27.2011 - 03:31:02] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 03:31:02] Parser completed in 0.00 seconds
+[12.27.2011 - 03:31:02] ---- SESSION END ----
+[12.27.2011 - 04:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 04:31:01] Established database connection
+[12.27.2011 - 04:31:01] Latest JSON dump is 1324978201
+[12.27.2011 - 04:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324978201.json
+[12.27.2011 - 04:31:01] Opened up the JSON file successfully
+[12.27.2011 - 04:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 04:31:01] Done parsing through the file
+[12.27.2011 - 04:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 04:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 04:31:01] JSON decoding complete
+[12.27.2011 - 04:31:01] There are  elements in the auction array
+[12.27.2011 - 04:31:01] Starting to insert all auctions into the database
+[12.27.2011 - 04:31:01] Added  auctions into the database
+[12.27.2011 - 04:31:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 04:31:01] Parser completed in 0.00 seconds
+[12.27.2011 - 04:31:01] ---- SESSION END ----
+[12.27.2011 - 05:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 05:31:01] Established database connection
+[12.27.2011 - 05:31:01] Latest JSON dump is 1324981804
+[12.27.2011 - 05:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324981804.json
+[12.27.2011 - 05:31:01] Opened up the JSON file successfully
+[12.27.2011 - 05:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 05:31:01] Done parsing through the file
+[12.27.2011 - 05:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 05:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 05:31:02] JSON decoding complete
+[12.27.2011 - 05:31:02] There are 22904 elements in the auction array
+[12.27.2011 - 05:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 05:31:11] Added 22904 auctions into the database
+[12.27.2011 - 05:31:11] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 05:31:11] Parser completed in 10.18 seconds
+[12.27.2011 - 05:31:11] ---- SESSION END ----
+[12.27.2011 - 06:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 06:31:01] Established database connection
+[12.27.2011 - 06:31:01] Latest JSON dump is 1324985402
+[12.27.2011 - 06:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324985402.json
+[12.27.2011 - 06:31:01] Opened up the JSON file successfully
+[12.27.2011 - 06:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 06:31:01] Done parsing through the file
+[12.27.2011 - 06:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 06:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 06:31:01] JSON decoding complete
+[12.27.2011 - 06:31:01] There are  elements in the auction array
+[12.27.2011 - 06:31:01] Starting to insert all auctions into the database
+[12.27.2011 - 06:31:01] Added  auctions into the database
+[12.27.2011 - 06:31:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 06:31:01] Parser completed in 0.00 seconds
+[12.27.2011 - 06:31:01] ---- SESSION END ----
+[12.27.2011 - 07:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 07:31:01] Established database connection
+[12.27.2011 - 07:31:01] Latest JSON dump is 1324989002
+[12.27.2011 - 07:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324989002.json
+[12.27.2011 - 07:31:01] Opened up the JSON file successfully
+[12.27.2011 - 07:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 07:31:01] Done parsing through the file
+[12.27.2011 - 07:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 07:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 07:31:01] JSON decoding complete
+[12.27.2011 - 07:31:01] There are  elements in the auction array
+[12.27.2011 - 07:31:01] Starting to insert all auctions into the database
+[12.27.2011 - 07:31:01] Added  auctions into the database
+[12.27.2011 - 07:31:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 07:31:01] Parser completed in 0.00 seconds
+[12.27.2011 - 07:31:01] ---- SESSION END ----
+[12.27.2011 - 08:31:02] ---- SESSION BEGIN ----
+[12.27.2011 - 08:31:02] Established database connection
+[12.27.2011 - 08:31:02] Latest JSON dump is 1324992603
+[12.27.2011 - 08:31:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324992603.json
+[12.27.2011 - 08:31:02] Opened up the JSON file successfully
+[12.27.2011 - 08:31:02] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 08:31:02] Done parsing through the file
+[12.27.2011 - 08:31:02] Converted array into string for JSON decoding preparation
+[12.27.2011 - 08:31:02] Begin JSON decode of auctionsString
+[12.27.2011 - 08:31:02] JSON decoding complete
+[12.27.2011 - 08:31:02] There are 22646 elements in the auction array
+[12.27.2011 - 08:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 08:31:10] Added 22646 auctions into the database
+[12.27.2011 - 08:31:10] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 08:31:10] Parser completed in 8.17 seconds
+[12.27.2011 - 08:31:10] ---- SESSION END ----
+[12.27.2011 - 09:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 09:31:01] Established database connection
+[12.27.2011 - 09:31:01] Latest JSON dump is 1324996203
+[12.27.2011 - 09:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324996203.json
+[12.27.2011 - 09:31:01] Opened up the JSON file successfully
+[12.27.2011 - 09:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 09:31:01] Done parsing through the file
+[12.27.2011 - 09:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 09:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 09:31:02] JSON decoding complete
+[12.27.2011 - 09:31:02] There are 22658 elements in the auction array
+[12.27.2011 - 09:31:02] Starting to insert all auctions into the database
+[12.27.2011 - 09:31:15] Added 22658 auctions into the database
+[12.27.2011 - 09:31:15] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 09:31:15] Parser completed in 14.07 seconds
+[12.27.2011 - 09:31:15] ---- SESSION END ----
+[12.27.2011 - 10:31:01] ---- SESSION BEGIN ----
+[12.27.2011 - 10:31:01] Established database connection
+[12.27.2011 - 10:31:01] Latest JSON dump is 1324999801
+[12.27.2011 - 10:31:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1324999801.json
+[12.27.2011 - 10:31:01] Opened up the JSON file successfully
+[12.27.2011 - 10:31:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 10:31:01] Done parsing through the file
+[12.27.2011 - 10:31:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 10:31:01] Begin JSON decode of auctionsString
+[12.27.2011 - 10:31:01] JSON decoding complete
+[12.27.2011 - 10:31:01] There are  elements in the auction array
+[12.27.2011 - 10:31:01] Starting to insert all auctions into the database
+[12.27.2011 - 10:31:01] Added  auctions into the database
+[12.27.2011 - 10:31:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 10:31:01] Parser completed in 0.00 seconds
+[12.27.2011 - 10:31:01] ---- SESSION END ----
+[12.27.2011 - 11:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 11:46:01] Established database connection
+[12.27.2011 - 11:46:01] Latest JSON dump is 1325004301
+[12.27.2011 - 11:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325004301.json
+[12.27.2011 - 11:46:01] Opened up the JSON file successfully
+[12.27.2011 - 11:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 11:46:01] Done parsing through the file
+[12.27.2011 - 11:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 11:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 11:46:01] JSON decoding complete
+[12.27.2011 - 11:46:01] There are  elements in the auction array
+[12.27.2011 - 11:46:01] Starting to insert all auctions into the database
+[12.27.2011 - 11:46:01] Added  auctions into the database
+[12.27.2011 - 11:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 11:46:01] Parser completed in 0.00 seconds
+[12.27.2011 - 11:46:01] ---- SESSION END ----
+[12.27.2011 - 12:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 12:46:01] Established database connection
+[12.27.2011 - 12:46:01] Latest JSON dump is 1325007902
+[12.27.2011 - 12:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325007902.json
+[12.27.2011 - 12:46:01] Opened up the JSON file successfully
+[12.27.2011 - 12:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 12:46:01] Done parsing through the file
+[12.27.2011 - 12:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 12:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 12:46:01] JSON decoding complete
+[12.27.2011 - 12:46:01] There are  elements in the auction array
+[12.27.2011 - 12:46:01] Starting to insert all auctions into the database
+[12.27.2011 - 12:46:01] Added  auctions into the database
+[12.27.2011 - 12:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 12:46:01] Parser completed in 0.00 seconds
+[12.27.2011 - 12:46:01] ---- SESSION END ----
+[12.27.2011 - 13:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 13:46:01] Established database connection
+[12.27.2011 - 13:46:01] Latest JSON dump is 1325011502
+[12.27.2011 - 13:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325011502.json
+[12.27.2011 - 13:46:01] Opened up the JSON file successfully
+[12.27.2011 - 13:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 13:46:01] Done parsing through the file
+[12.27.2011 - 13:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 13:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 13:46:01] JSON decoding complete
+[12.27.2011 - 13:46:01] There are  elements in the auction array
+[12.27.2011 - 13:46:01] Starting to insert all auctions into the database
+[12.27.2011 - 13:46:01] Added  auctions into the database
+[12.27.2011 - 13:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 13:46:01] Parser completed in 0.00 seconds
+[12.27.2011 - 13:46:01] ---- SESSION END ----
+[12.27.2011 - 14:46:02] ---- SESSION BEGIN ----
+[12.27.2011 - 14:46:02] Established database connection
+[12.27.2011 - 14:46:02] Latest JSON dump is 1325015103
+[12.27.2011 - 14:46:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325015103.json
+[12.27.2011 - 14:46:02] Opened up the JSON file successfully
+[12.27.2011 - 14:46:02] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 14:46:02] Done parsing through the file
+[12.27.2011 - 14:46:02] Converted array into string for JSON decoding preparation
+[12.27.2011 - 14:46:02] Begin JSON decode of auctionsString
+[12.27.2011 - 14:46:02] JSON decoding complete
+[12.27.2011 - 14:46:02] There are 23386 elements in the auction array
+[12.27.2011 - 14:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 14:46:19] Added 23386 auctions into the database
+[12.27.2011 - 14:46:19] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 14:46:19] Parser completed in 17.44 seconds
+[12.27.2011 - 14:46:19] ---- SESSION END ----
+[12.27.2011 - 15:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 15:46:01] Established database connection
+[12.27.2011 - 15:46:01] Latest JSON dump is 1325018702
+[12.27.2011 - 15:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325018702.json
+[12.27.2011 - 15:46:01] Opened up the JSON file successfully
+[12.27.2011 - 15:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 15:46:01] Done parsing through the file
+[12.27.2011 - 15:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 15:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 15:46:01] JSON decoding complete
+[12.27.2011 - 15:46:01] There are  elements in the auction array
+[12.27.2011 - 15:46:01] Starting to insert all auctions into the database
+[12.27.2011 - 15:46:01] Added  auctions into the database
+[12.27.2011 - 15:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 15:46:01] Parser completed in 0.00 seconds
+[12.27.2011 - 15:46:01] ---- SESSION END ----
+[12.27.2011 - 16:46:02] ---- SESSION BEGIN ----
+[12.27.2011 - 16:46:02] Established database connection
+[12.27.2011 - 16:46:02] Latest JSON dump is 1325022303
+[12.27.2011 - 16:46:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325022303.json
+[12.27.2011 - 16:46:02] Opened up the JSON file successfully
+[12.27.2011 - 16:46:02] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 16:46:02] Done parsing through the file
+[12.27.2011 - 16:46:02] Converted array into string for JSON decoding preparation
+[12.27.2011 - 16:46:02] Begin JSON decode of auctionsString
+[12.27.2011 - 16:46:02] JSON decoding complete
+[12.27.2011 - 16:46:02] There are 22945 elements in the auction array
+[12.27.2011 - 16:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 16:46:15] Added 22945 auctions into the database
+[12.27.2011 - 16:46:15] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 16:46:15] Parser completed in 13.44 seconds
+[12.27.2011 - 16:46:15] ---- SESSION END ----
+[12.27.2011 - 17:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 17:46:01] Established database connection
+[12.27.2011 - 17:46:01] Latest JSON dump is 1325025904
+[12.27.2011 - 17:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325025904.json
+[12.27.2011 - 17:46:01] Opened up the JSON file successfully
+[12.27.2011 - 17:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 17:46:01] Done parsing through the file
+[12.27.2011 - 17:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 17:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 17:46:02] JSON decoding complete
+[12.27.2011 - 17:46:02] There are 23209 elements in the auction array
+[12.27.2011 - 17:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 17:46:15] Added 23209 auctions into the database
+[12.27.2011 - 17:46:15] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 17:46:15] Parser completed in 14.44 seconds
+[12.27.2011 - 17:46:15] ---- SESSION END ----
+[12.27.2011 - 18:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 18:46:01] Established database connection
+[12.27.2011 - 18:46:01] Latest JSON dump is 1325029503
+[12.27.2011 - 18:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325029503.json
+[12.27.2011 - 18:46:01] Opened up the JSON file successfully
+[12.27.2011 - 18:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 18:46:01] Done parsing through the file
+[12.27.2011 - 18:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 18:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 18:46:02] JSON decoding complete
+[12.27.2011 - 18:46:02] There are 23376 elements in the auction array
+[12.27.2011 - 18:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 18:46:19] Added 23376 auctions into the database
+[12.27.2011 - 18:46:19] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 18:46:19] Parser completed in 17.94 seconds
+[12.27.2011 - 18:46:19] ---- SESSION END ----
+[12.27.2011 - 19:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 19:46:01] Established database connection
+[12.27.2011 - 19:46:01] Latest JSON dump is 1325033102
+[12.27.2011 - 19:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325033102.json
+[12.27.2011 - 19:46:01] Opened up the JSON file successfully
+[12.27.2011 - 19:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 19:46:01] Done parsing through the file
+[12.27.2011 - 19:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 19:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 19:46:01] JSON decoding complete
+[12.27.2011 - 19:46:01] There are  elements in the auction array
+[12.27.2011 - 19:46:01] Starting to insert all auctions into the database
+[12.27.2011 - 19:46:01] Added  auctions into the database
+[12.27.2011 - 19:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 19:46:01] Parser completed in 0.00 seconds
+[12.27.2011 - 19:46:01] ---- SESSION END ----
+[12.27.2011 - 20:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 20:46:01] Established database connection
+[12.27.2011 - 20:46:01] Latest JSON dump is 1325036704
+[12.27.2011 - 20:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325036704.json
+[12.27.2011 - 20:46:01] Opened up the JSON file successfully
+[12.27.2011 - 20:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 20:46:01] Done parsing through the file
+[12.27.2011 - 20:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 20:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 20:46:02] JSON decoding complete
+[12.27.2011 - 20:46:02] There are 24334 elements in the auction array
+[12.27.2011 - 20:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 20:46:21] Added 24334 auctions into the database
+[12.27.2011 - 20:46:21] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 20:46:21] Parser completed in 19.98 seconds
+[12.27.2011 - 20:46:21] ---- SESSION END ----
+[12.27.2011 - 21:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 21:46:01] Established database connection
+[12.27.2011 - 21:46:01] Latest JSON dump is 1325040302
+[12.27.2011 - 21:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325040302.json
+[12.27.2011 - 21:46:01] Opened up the JSON file successfully
+[12.27.2011 - 21:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 21:46:01] Done parsing through the file
+[12.27.2011 - 21:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 21:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 21:46:01] JSON decoding complete
+[12.27.2011 - 21:46:01] There are  elements in the auction array
+[12.27.2011 - 21:46:01] Starting to insert all auctions into the database
+[12.27.2011 - 21:46:01] Added  auctions into the database
+[12.27.2011 - 21:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 21:46:01] Parser completed in 0.00 seconds
+[12.27.2011 - 21:46:01] ---- SESSION END ----
+[12.27.2011 - 22:46:01] ---- SESSION BEGIN ----
+[12.27.2011 - 22:46:01] Established database connection
+[12.27.2011 - 22:46:01] Latest JSON dump is 1325043904
+[12.27.2011 - 22:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325043904.json
+[12.27.2011 - 22:46:01] Opened up the JSON file successfully
+[12.27.2011 - 22:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 22:46:01] Done parsing through the file
+[12.27.2011 - 22:46:01] Converted array into string for JSON decoding preparation
+[12.27.2011 - 22:46:01] Begin JSON decode of auctionsString
+[12.27.2011 - 22:46:01] JSON decoding complete
+[12.27.2011 - 22:46:02] There are 24581 elements in the auction array
+[12.27.2011 - 22:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 22:46:17] Added 24581 auctions into the database
+[12.27.2011 - 22:46:17] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 22:46:17] Parser completed in 15.99 seconds
+[12.27.2011 - 22:46:17] ---- SESSION END ----
+[12.27.2011 - 23:46:02] ---- SESSION BEGIN ----
+[12.27.2011 - 23:46:02] Established database connection
+[12.27.2011 - 23:46:02] Latest JSON dump is 1325047503
+[12.27.2011 - 23:46:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325047503.json
+[12.27.2011 - 23:46:02] Opened up the JSON file successfully
+[12.27.2011 - 23:46:02] Parsing through JSON file and adding each line to auctionsArray
+[12.27.2011 - 23:46:02] Done parsing through the file
+[12.27.2011 - 23:46:02] Converted array into string for JSON decoding preparation
+[12.27.2011 - 23:46:02] Begin JSON decode of auctionsString
+[12.27.2011 - 23:46:02] JSON decoding complete
+[12.27.2011 - 23:46:02] There are 25508 elements in the auction array
+[12.27.2011 - 23:46:02] Starting to insert all auctions into the database
+[12.27.2011 - 23:46:16] Added 25508 auctions into the database
+[12.27.2011 - 23:46:16] Telling MASTER CONTROL to put the parser program on standby
+[12.27.2011 - 23:46:16] Parser completed in 14.08 seconds
+[12.27.2011 - 23:46:16] ---- SESSION END ----
+[12.28.2011 - 00:46:01] ---- SESSION BEGIN ----
+[12.28.2011 - 00:46:01] Established database connection
+[12.28.2011 - 00:46:01] Latest JSON dump is 1325051101
+[12.28.2011 - 00:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325051101.json
+[12.28.2011 - 00:46:01] Opened up the JSON file successfully
+[12.28.2011 - 00:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 00:46:01] Done parsing through the file
+[12.28.2011 - 00:46:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 00:46:01] Begin JSON decode of auctionsString
+[12.28.2011 - 00:46:01] JSON decoding complete
+[12.28.2011 - 00:46:01] There are  elements in the auction array
+[12.28.2011 - 00:46:01] Starting to insert all auctions into the database
+[12.28.2011 - 00:46:01] Added  auctions into the database
+[12.28.2011 - 00:46:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 00:46:01] Parser completed in 0.00 seconds
+[12.28.2011 - 00:46:01] ---- SESSION END ----
+[12.28.2011 - 01:46:01] ---- SESSION BEGIN ----
+[12.28.2011 - 01:46:01] Established database connection
+[12.28.2011 - 01:46:01] Latest JSON dump is 1325054704
+[12.28.2011 - 01:46:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325054704.json
+[12.28.2011 - 01:46:01] Opened up the JSON file successfully
+[12.28.2011 - 01:46:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 01:46:01] Done parsing through the file
+[12.28.2011 - 01:46:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 01:46:01] Begin JSON decode of auctionsString
+[12.28.2011 - 01:46:02] JSON decoding complete
+[12.28.2011 - 01:46:02] There are 25702 elements in the auction array
+[12.28.2011 - 01:46:02] Starting to insert all auctions into the database
+[12.28.2011 - 01:46:15] Added 25702 auctions into the database
+[12.28.2011 - 01:46:15] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 01:46:15] Parser completed in 14.04 seconds
+[12.28.2011 - 01:46:15] ---- SESSION END ----
+[12.28.2011 - 03:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 03:01:01] Established database connection
+[12.28.2011 - 03:01:01] Latest JSON dump is 1325059204
+[12.28.2011 - 03:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325059204.json
+[12.28.2011 - 03:01:01] Opened up the JSON file successfully
+[12.28.2011 - 03:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 03:01:01] Done parsing through the file
+[12.28.2011 - 03:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 03:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 03:01:01] JSON decoding complete
+[12.28.2011 - 03:01:02] There are 25690 elements in the auction array
+[12.28.2011 - 03:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 03:01:16] Added 25690 auctions into the database
+[12.28.2011 - 03:01:16] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 03:01:16] Parser completed in 15.35 seconds
+[12.28.2011 - 03:01:16] ---- SESSION END ----
+[12.28.2011 - 04:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 04:01:01] Established database connection
+[12.28.2011 - 04:01:01] Latest JSON dump is 1325062804
+[12.28.2011 - 04:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325062804.json
+[12.28.2011 - 04:01:01] Opened up the JSON file successfully
+[12.28.2011 - 04:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 04:01:01] Done parsing through the file
+[12.28.2011 - 04:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 04:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 04:01:02] JSON decoding complete
+[12.28.2011 - 04:01:02] There are 25489 elements in the auction array
+[12.28.2011 - 04:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 04:01:16] Added 25489 auctions into the database
+[12.28.2011 - 04:01:16] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 04:01:16] Parser completed in 15.31 seconds
+[12.28.2011 - 04:01:16] ---- SESSION END ----
+[12.28.2011 - 05:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 05:01:01] Established database connection
+[12.28.2011 - 05:01:01] Latest JSON dump is 1325066401
+[12.28.2011 - 05:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325066401.json
+[12.28.2011 - 05:01:01] Opened up the JSON file successfully
+[12.28.2011 - 05:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 05:01:01] Done parsing through the file
+[12.28.2011 - 05:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 05:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 05:01:01] JSON decoding complete
+[12.28.2011 - 05:01:01] There are  elements in the auction array
+[12.28.2011 - 05:01:01] Starting to insert all auctions into the database
+[12.28.2011 - 05:01:01] Added  auctions into the database
+[12.28.2011 - 05:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 05:01:01] Parser completed in 0.00 seconds
+[12.28.2011 - 05:01:01] ---- SESSION END ----
+[12.28.2011 - 06:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 06:01:01] Established database connection
+[12.28.2011 - 06:01:01] Latest JSON dump is 1325070003
+[12.28.2011 - 06:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325070003.json
+[12.28.2011 - 06:01:01] Opened up the JSON file successfully
+[12.28.2011 - 06:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 06:01:02] Done parsing through the file
+[12.28.2011 - 06:01:02] Converted array into string for JSON decoding preparation
+[12.28.2011 - 06:01:02] Begin JSON decode of auctionsString
+[12.28.2011 - 06:01:02] JSON decoding complete
+[12.28.2011 - 06:01:02] There are 26038 elements in the auction array
+[12.28.2011 - 06:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 06:01:16] Added 26038 auctions into the database
+[12.28.2011 - 06:01:16] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 06:01:16] Parser completed in 14.19 seconds
+[12.28.2011 - 06:01:16] ---- SESSION END ----
+[12.28.2011 - 07:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 07:01:01] Established database connection
+[12.28.2011 - 07:01:01] Latest JSON dump is 1325073604
+[12.28.2011 - 07:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325073604.json
+[12.28.2011 - 07:01:01] Opened up the JSON file successfully
+[12.28.2011 - 07:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 07:01:01] Done parsing through the file
+[12.28.2011 - 07:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 07:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 07:01:02] JSON decoding complete
+[12.28.2011 - 07:01:02] There are 26143 elements in the auction array
+[12.28.2011 - 07:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 07:01:16] Added 26143 auctions into the database
+[12.28.2011 - 07:01:16] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 07:01:16] Parser completed in 14.95 seconds
+[12.28.2011 - 07:01:16] ---- SESSION END ----
+[12.28.2011 - 08:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 08:01:01] Established database connection
+[12.28.2011 - 08:01:01] Latest JSON dump is 1325077204
+[12.28.2011 - 08:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325077204.json
+[12.28.2011 - 08:01:01] Opened up the JSON file successfully
+[12.28.2011 - 08:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 08:01:01] Done parsing through the file
+[12.28.2011 - 08:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 08:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 08:01:02] JSON decoding complete
+[12.28.2011 - 08:01:02] There are 26058 elements in the auction array
+[12.28.2011 - 08:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 08:01:17] Added 26058 auctions into the database
+[12.28.2011 - 08:01:17] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 08:01:17] Parser completed in 16.32 seconds
+[12.28.2011 - 08:01:17] ---- SESSION END ----
+[12.28.2011 - 09:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 09:01:01] Established database connection
+[12.28.2011 - 09:01:01] Latest JSON dump is 1325080803
+[12.28.2011 - 09:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325080803.json
+[12.28.2011 - 09:01:01] Opened up the JSON file successfully
+[12.28.2011 - 09:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 09:01:02] Done parsing through the file
+[12.28.2011 - 09:01:02] Converted array into string for JSON decoding preparation
+[12.28.2011 - 09:01:02] Begin JSON decode of auctionsString
+[12.28.2011 - 09:01:02] JSON decoding complete
+[12.28.2011 - 09:01:02] There are 25740 elements in the auction array
+[12.28.2011 - 09:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 09:01:22] Added 25740 auctions into the database
+[12.28.2011 - 09:01:22] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 09:01:22] Parser completed in 20.76 seconds
+[12.28.2011 - 09:01:22] ---- SESSION END ----
+[12.28.2011 - 10:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 10:01:01] Established database connection
+[12.28.2011 - 10:01:01] Latest JSON dump is 1325084403
+[12.28.2011 - 10:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325084403.json
+[12.28.2011 - 10:01:01] Opened up the JSON file successfully
+[12.28.2011 - 10:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 10:01:01] Done parsing through the file
+[12.28.2011 - 10:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 10:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 10:01:02] JSON decoding complete
+[12.28.2011 - 10:01:02] There are 25522 elements in the auction array
+[12.28.2011 - 10:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 10:01:16] Added 25522 auctions into the database
+[12.28.2011 - 10:01:16] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 10:01:16] Parser completed in 14.40 seconds
+[12.28.2011 - 10:01:16] ---- SESSION END ----
+[12.28.2011 - 11:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 11:01:01] Established database connection
+[12.28.2011 - 11:01:01] Latest JSON dump is 1325088002
+[12.28.2011 - 11:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325088002.json
+[12.28.2011 - 11:01:01] Opened up the JSON file successfully
+[12.28.2011 - 11:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 11:01:01] Done parsing through the file
+[12.28.2011 - 11:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 11:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 11:01:01] JSON decoding complete
+[12.28.2011 - 11:01:01] There are  elements in the auction array
+[12.28.2011 - 11:01:01] Starting to insert all auctions into the database
+[12.28.2011 - 11:01:01] Added  auctions into the database
+[12.28.2011 - 11:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 11:01:01] Parser completed in 0.00 seconds
+[12.28.2011 - 11:01:01] ---- SESSION END ----
+[12.28.2011 - 12:01:02] ---- SESSION BEGIN ----
+[12.28.2011 - 12:01:02] Established database connection
+[12.28.2011 - 12:01:02] Latest JSON dump is 1325091601
+[12.28.2011 - 12:01:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325091601.json
+[12.28.2011 - 12:01:02] Opened up the JSON file successfully
+[12.28.2011 - 12:01:02] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 12:01:02] Done parsing through the file
+[12.28.2011 - 12:01:02] Converted array into string for JSON decoding preparation
+[12.28.2011 - 12:01:02] Begin JSON decode of auctionsString
+[12.28.2011 - 12:01:02] JSON decoding complete
+[12.28.2011 - 12:01:02] There are  elements in the auction array
+[12.28.2011 - 12:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 12:01:02] Added  auctions into the database
+[12.28.2011 - 12:01:02] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 12:01:02] Parser completed in 0.00 seconds
+[12.28.2011 - 12:01:02] ---- SESSION END ----
+[12.28.2011 - 13:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 13:01:01] Established database connection
+[12.28.2011 - 13:01:01] Latest JSON dump is 1325095203
+[12.28.2011 - 13:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325095203.json
+[12.28.2011 - 13:01:01] Opened up the JSON file successfully
+[12.28.2011 - 13:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 13:01:02] Done parsing through the file
+[12.28.2011 - 13:01:02] Converted array into string for JSON decoding preparation
+[12.28.2011 - 13:01:02] Begin JSON decode of auctionsString
+[12.28.2011 - 13:01:02] JSON decoding complete
+[12.28.2011 - 13:01:02] There are 23844 elements in the auction array
+[12.28.2011 - 13:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 13:01:15] Added 23844 auctions into the database
+[12.28.2011 - 13:01:15] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 13:01:15] Parser completed in 13.31 seconds
+[12.28.2011 - 13:01:15] ---- SESSION END ----
+[12.28.2011 - 14:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 14:01:01] Established database connection
+[12.28.2011 - 14:01:01] Latest JSON dump is 1325098802
+[12.28.2011 - 14:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325098802.json
+[12.28.2011 - 14:01:01] Opened up the JSON file successfully
+[12.28.2011 - 14:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 14:01:01] Done parsing through the file
+[12.28.2011 - 14:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 14:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 14:01:01] JSON decoding complete
+[12.28.2011 - 14:01:01] There are  elements in the auction array
+[12.28.2011 - 14:01:01] Starting to insert all auctions into the database
+[12.28.2011 - 14:01:01] Added  auctions into the database
+[12.28.2011 - 14:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 14:01:01] Parser completed in 0.00 seconds
+[12.28.2011 - 14:01:01] ---- SESSION END ----
+[12.28.2011 - 15:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 15:01:01] Established database connection
+[12.28.2011 - 15:01:01] Latest JSON dump is 1325102402
+[12.28.2011 - 15:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325102402.json
+[12.28.2011 - 15:01:01] Opened up the JSON file successfully
+[12.28.2011 - 15:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 15:01:01] Done parsing through the file
+[12.28.2011 - 15:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 15:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 15:01:01] JSON decoding complete
+[12.28.2011 - 15:01:01] There are  elements in the auction array
+[12.28.2011 - 15:01:01] Starting to insert all auctions into the database
+[12.28.2011 - 15:01:01] Added  auctions into the database
+[12.28.2011 - 15:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 15:01:01] Parser completed in 0.00 seconds
+[12.28.2011 - 15:01:01] ---- SESSION END ----
+[12.28.2011 - 16:01:01] ---- SESSION BEGIN ----
+[12.28.2011 - 16:01:01] Established database connection
+[12.28.2011 - 16:01:01] Latest JSON dump is 1325106001
+[12.28.2011 - 16:01:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325106001.json
+[12.28.2011 - 16:01:01] Opened up the JSON file successfully
+[12.28.2011 - 16:01:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 16:01:01] Done parsing through the file
+[12.28.2011 - 16:01:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 16:01:01] Begin JSON decode of auctionsString
+[12.28.2011 - 16:01:01] JSON decoding complete
+[12.28.2011 - 16:01:01] There are  elements in the auction array
+[12.28.2011 - 16:01:01] Starting to insert all auctions into the database
+[12.28.2011 - 16:01:01] Added  auctions into the database
+[12.28.2011 - 16:01:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 16:01:01] Parser completed in 0.00 seconds
+[12.28.2011 - 16:01:01] ---- SESSION END ----
+[12.28.2011 - 17:01:02] ---- SESSION BEGIN ----
+[12.28.2011 - 17:01:02] Established database connection
+[12.28.2011 - 17:01:02] Latest JSON dump is 1325109601
+[12.28.2011 - 17:01:02] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325109601.json
+[12.28.2011 - 17:01:02] Opened up the JSON file successfully
+[12.28.2011 - 17:01:02] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 17:01:02] Done parsing through the file
+[12.28.2011 - 17:01:02] Converted array into string for JSON decoding preparation
+[12.28.2011 - 17:01:02] Begin JSON decode of auctionsString
+[12.28.2011 - 17:01:02] JSON decoding complete
+[12.28.2011 - 17:01:02] There are  elements in the auction array
+[12.28.2011 - 17:01:02] Starting to insert all auctions into the database
+[12.28.2011 - 17:01:02] Added  auctions into the database
+[12.28.2011 - 17:01:02] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 17:01:02] Parser completed in 0.00 seconds
+[12.28.2011 - 17:01:02] ---- SESSION END ----
+[12.28.2011 - 18:16:01] ---- SESSION BEGIN ----
+[12.28.2011 - 18:16:01] Established database connection
+[12.28.2011 - 18:16:01] Latest JSON dump is 1325114101
+[12.28.2011 - 18:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325114101.json
+[12.28.2011 - 18:16:01] Opened up the JSON file successfully
+[12.28.2011 - 18:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 18:16:01] Done parsing through the file
+[12.28.2011 - 18:16:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 18:16:01] Begin JSON decode of auctionsString
+[12.28.2011 - 18:16:01] JSON decoding complete
+[12.28.2011 - 18:16:01] There are  elements in the auction array
+[12.28.2011 - 18:16:01] Starting to insert all auctions into the database
+[12.28.2011 - 18:16:01] Added  auctions into the database
+[12.28.2011 - 18:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 18:16:01] Parser completed in 0.00 seconds
+[12.28.2011 - 18:16:01] ---- SESSION END ----
+[12.28.2011 - 19:16:01] ---- SESSION BEGIN ----
+[12.28.2011 - 19:16:01] Established database connection
+[12.28.2011 - 19:16:01] Latest JSON dump is 1325117701
+[12.28.2011 - 19:16:01] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325117701.json
+[12.28.2011 - 19:16:01] Opened up the JSON file successfully
+[12.28.2011 - 19:16:01] Parsing through JSON file and adding each line to auctionsArray
+[12.28.2011 - 19:16:01] Done parsing through the file
+[12.28.2011 - 19:16:01] Converted array into string for JSON decoding preparation
+[12.28.2011 - 19:16:01] Begin JSON decode of auctionsString
+[12.28.2011 - 19:16:01] JSON decoding complete
+[12.28.2011 - 19:16:01] There are  elements in the auction array
+[12.28.2011 - 19:16:01] Starting to insert all auctions into the database
+[12.28.2011 - 19:16:01] Added  auctions into the database
+[12.28.2011 - 19:16:01] Telling MASTER CONTROL to put the parser program on standby
+[12.28.2011 - 19:16:01] Parser completed in 0.01 seconds
+[12.28.2011 - 19:16:01] ---- SESSION END ----
+[09.20.2012 - 20:22:35] ---- SESSION BEGIN ----
+[09.20.2012 - 20:22:35] Established database connection
+[09.20.2012 - 20:22:35] Latest JSON dump is 1325117701
+[09.20.2012 - 20:22:35] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325117701.json
+[09.20.2012 - 20:22:35] Opened up the JSON file successfully
+[09.20.2012 - 20:22:35] Parsing through JSON file and adding each line to auctionsArray
+[09.20.2012 - 20:22:35] Done parsing through the file
+[09.20.2012 - 20:22:35] Converted array into string for JSON decoding preparation
+[09.20.2012 - 20:22:35] Begin JSON decode of auctionsString
+[09.20.2012 - 20:22:35] JSON decoding complete
+[09.20.2012 - 20:22:35] There are  elements in the auction array
+[09.20.2012 - 20:22:35] Starting to insert all auctions into the database
+[09.20.2012 - 20:22:35] Added  auctions into the database
+[09.20.2012 - 20:22:35] Telling MASTER CONTROL to put the parser program on standby
+[09.20.2012 - 20:22:35] Parser completed in 0.03 seconds
+[09.20.2012 - 20:22:35] ---- SESSION END ----
+[09.20.2012 - 20:24:34] ---- SESSION BEGIN ----
+[09.20.2012 - 20:24:34] Established database connection
+[09.20.2012 - 20:24:34] Latest JSON dump is 1325095203
+[09.20.2012 - 20:24:34] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325095203.json
+[09.20.2012 - 20:24:34] Opened up the JSON file successfully
+[09.20.2012 - 20:24:34] Parsing through JSON file and adding each line to auctionsArray
+[09.20.2012 - 20:24:34] Done parsing through the file
+[09.20.2012 - 20:24:34] Converted array into string for JSON decoding preparation
+[09.20.2012 - 20:24:34] Begin JSON decode of auctionsString
+[09.20.2012 - 20:24:34] JSON decoding complete
+[09.20.2012 - 20:24:34] There are 23844 elements in the auction array
+[09.20.2012 - 20:24:34] Starting to insert all auctions into the database
+[09.20.2012 - 20:25:03] Added 23844 auctions into the database
+[09.20.2012 - 20:25:03] Telling MASTER CONTROL to put the parser program on standby
+[09.20.2012 - 20:25:03] Parser completed in 29.05 seconds
+[09.20.2012 - 20:25:03] ---- SESSION END ----
+[09.20.2012 - 20:26:16] ---- SESSION BEGIN ----
+[09.20.2012 - 20:26:16] Established database connection
+[09.20.2012 - 20:26:16] Latest JSON dump is 1325095203
+[09.20.2012 - 20:26:16] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325095203.json
+[09.20.2012 - 20:26:16] Opened up the JSON file successfully
+[09.20.2012 - 20:26:16] Parsing through JSON file and adding each line to auctionsArray
+[09.20.2012 - 20:26:16] Done parsing through the file
+[09.20.2012 - 20:26:16] Converted array into string for JSON decoding preparation
+[09.20.2012 - 20:26:16] Begin JSON decode of auctionsString
+[09.20.2012 - 20:26:16] JSON decoding complete
+[09.20.2012 - 20:26:16] There are 23844 elements in the auction array
+[09.20.2012 - 20:26:16] Starting to insert all auctions into the database
+[09.20.2012 - 20:26:26] Added 23844 auctions into the database
+[09.20.2012 - 20:26:26] Telling MASTER CONTROL to put the parser program on standby
+[09.20.2012 - 20:26:26] Parser completed in 10.05 seconds
+[09.20.2012 - 20:26:26] ---- SESSION END ----
+[09.20.2012 - 20:27:04] ---- SESSION BEGIN ----
+[09.20.2012 - 20:27:04] Established database connection
+[09.20.2012 - 20:27:04] Latest JSON dump is 1325095203
+[09.20.2012 - 20:27:04] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325095203.json
+[09.20.2012 - 20:27:04] Opened up the JSON file successfully
+[09.20.2012 - 20:27:04] Parsing through JSON file and adding each line to auctionsArray
+[09.20.2012 - 20:27:04] Done parsing through the file
+[09.20.2012 - 20:27:04] Converted array into string for JSON decoding preparation
+[09.20.2012 - 20:27:04] Begin JSON decode of auctionsString
+[09.20.2012 - 20:27:04] JSON decoding complete
+[09.20.2012 - 20:27:05] There are 23844 elements in the auction array
+[09.20.2012 - 20:27:05] Starting to insert all auctions into the database
+[09.20.2012 - 20:27:14] Added 23844 auctions into the database
+[09.20.2012 - 20:27:14] Telling MASTER CONTROL to put the parser program on standby
+[09.20.2012 - 20:27:14] Parser completed in 9.54 seconds
+[09.20.2012 - 20:27:14] ---- SESSION END ----
+[09.20.2012 - 21:12:06] ---- SESSION BEGIN ----
+[09.20.2012 - 21:12:06] Established database connection
+[09.20.2012 - 21:12:06] Latest JSON dump is 1325095203
+[09.20.2012 - 21:12:06] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325095203.json
+[09.20.2012 - 21:12:06] Opened up the JSON file successfully
+[09.20.2012 - 21:12:06] Parsing through JSON file and adding each line to auctionsArray
+[09.20.2012 - 21:12:06] Done parsing through the file
+[09.20.2012 - 21:12:06] Converted array into string for JSON decoding preparation
+[09.20.2012 - 21:12:06] Begin JSON decode of auctionsString
+[09.20.2012 - 21:12:06] JSON decoding complete
+[09.20.2012 - 21:12:06] There are 23844 elements in the auction array
+[09.20.2012 - 21:12:06] Starting to insert all auctions into the database
+[09.20.2012 - 21:12:11] Added  auctions into the database
+[09.20.2012 - 21:12:11] Telling MASTER CONTROL to put the parser program on standby
+[09.20.2012 - 21:12:11] Parser completed in 4.93 seconds
+[09.20.2012 - 21:12:11] ---- SESSION END ----
+[09.20.2012 - 21:13:39] ---- SESSION BEGIN ----
+[09.20.2012 - 21:13:39] Established database connection
+[09.20.2012 - 21:13:39] Latest JSON dump is 1325095203
+[09.20.2012 - 21:13:39] Opening up JSON file according to the latest JSON dump: ./datastore/auctions_1325095203.json
+[09.20.2012 - 21:13:39] Opened up the JSON file successfully
+[09.20.2012 - 21:13:39] Parsing through JSON file and adding each line to auctionsArray
+[09.20.2012 - 21:13:39] Done parsing through the file
+[09.20.2012 - 21:13:39] Converted array into string for JSON decoding preparation
+[09.20.2012 - 21:13:39] Begin JSON decode of auctionsString
+[09.20.2012 - 21:13:40] JSON decoding complete
+[09.20.2012 - 21:13:40] There are 23844 elements in the auction array
+[09.20.2012 - 21:13:40] Starting to insert all auctions into the database
+[09.20.2012 - 21:13:44] Added  auctions into the database
+[09.20.2012 - 21:13:44] Telling MASTER CONTROL to put the parser program on standby
+[09.20.2012 - 21:13:44] Parser completed in 4.93 seconds
+[09.20.2012 - 21:13:44] ---- SESSION END ----

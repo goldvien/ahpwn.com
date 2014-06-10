@@ -1,0 +1,323 @@
+<?php 
+ error_reporting(E_ALL); 
+ ini_set("display_errors", 1); 
+ //include("parser.php"); 
+?>
+
+
+==== SEP2012 ====
+
+CRAWLER - run logic
+-------------
+open config
+open logfile for writing
+connect database
+is crawler enabled
+get realms
+connects to API
+new data to download?
+ok, download JSON file
+save to hard disk with last modified date
+update database with last modified date
+insert into parser queue - current scan time, latest json dump timestamp
+log results into database
+
+== notes
+-> just download gzipped file directly to HD. don't raw json->memory->file!
+
+
+PARSER - run logic
+-------------
+open config
+connect database
+update is_parser_running = 1
+is parser enabled
+check parser queue, get one (1) uncompleted file
+save scan_time locally == NOT scan-time but rather time the json file was last modified by blizzard
+save json_filename locally
+open json file with given json_filename
+get information, append scan_time and insert into the database
+mark json_filename as completed in the parser queue
+are there any more json files to work on?
+update is_parser_running = 0
+exit
+
+INSERT AUCTIONS
+--------------
+separate table for auctions + scan_time?
+only one auction_id in auctions table?
+
+
+MASTER ENGINE?? 
+---------------------
+objective-c daemon engine
+basically a socket server that squats a port number
+infinite run loop (until it gets terminated)
+every 15 minutes (get from database value), run crawler
+when crawler completes, crawler send message to engine to run parser
+engine executes parser
+when parser completes, sends message to engine that it's done
+engine executes other stuff
+
+remote client can connect to daemon
+start/stop/restart daemon, send message to run certain module
+engine saves stats to database
+remote client can query database for stats
+
+
+
+
+should parser back parse previously downloaded files? 
+- no
+	+ will only parse the latest json file
+	+ database will lack data during downtime 
+	+ only needs to run once
+- yes
+	+ parses all json files marked for parsing
+	+ database will have "old" data for historical analysis
+		- will have out of order data -> new... old... old... new... old... new
+	+ needs to run multiple times, should have good logging analysis
+
+
+how will it set the time then?
+should crawler set the download time?
+and then parser uses time from crawler?
+
+WHAT ABOUT...
+duplicate auction IDs?
+how is the auction data going to be selected out of the DB?
+- by scan_time?
+- unique auction_id?
+
+LOOK INTO:
+-----------
+UPSERT
+SQL MERGE
+
+
+
+
+exactly how do we calculate market prices for a certain time range
+duplicate auctions?
+time left auctions?
+
+SOLD STATS
+- no more sold API from blizzard
+- need to parse local TSM(?) sold auctions datastore
+	_ multiple accounts (wow1, wow2)
+	_ TSM_Accounting module, probably best place to look at?
+
+
+FRONTEND
+- like wowhead 
+[[ MULTIVIEW ]]
+- table view, displaying item/auction/row, etc.
+- sorting options to filter different things to display in table view
+- summary totals? (i.e. this crafting queue will cost this much = ? and total sale profit will be = ?)
+
+[[ SINGLE VIEW ]]
+- one item page
+- detailed information with graphs and suchhhhhhh
+
+
+Update market price functions
+- be able to retrieve historical data if no current data is present
+(just use database and get last entered date, not the current time... could be months out of sync)
+
+
+Change market price formatting
+- to display significant digits (i.e gold + silver or silver+copper, etc.)
+- if historical data is older than an hour, then change the color to grey? to indicate it's older data
+(different colors for varying "Age" of historical market price. tooltip to give exact time/date?)
+
+Update sold count to include actual sold count (i.e sold count row * quantity)
+
+Make coloring for availability numbers (i guess same for sold count?)
+
+Create section summaries with relevant information
+- what exactly?
+- engine stats (ahpwn engine, should be multiple apps or one giant executable?)
+- api stats
+
+
+Create sold page in AHPWN template
+- Create daily gold total
+- Most common items
+- Should be sortable and filterable (ideally this would have been nice to do with AJAX, but since we only display the last 200 results, I think I would need to query the server for a complete picture. I might need to create a temporary mysql table to do the filtering queries on. PROCEDURES?)
+
+Create obsidium/herb shuffle pageZZZZ (see if I could make a template shuffle page to add my own items to check for shuffling profits)
+
+Create reagent of reagent
+- reagent calc function should check to see if reagent has a reagent (RECURSION, THE RABBIT HOLE NEVER ENDS)
+	
+2012 version
+get reagent from given item id
+get price of the reagent
+does reagent have a reagent
+is the price of the reagent's reagent cheaper or more expensive than the reagent
+final result -> use cheapest reagent
+
+lol, this is 2011 version - up above is 2012 version
+- get reagent of reagent
+- lookup price information for reagent of reagent
+- if reagent of reagent is cheaper, then display it
+- otherwise display cheapest reagent
+
+
+Create charts for each item
+- to reduce processing overhead, should query in a modal (lightbox) window?
+(only one line chart works properly. see if I use an annotated timeline chart; will it work?)
+
+
+MOAR STATISTICS (Item based information in MODAL window?)
+- could show trends on when items are cheaper and availability is lower
+- trend is over a long period of time
+- see who is undercutting me
+- at what time does an item sell best at?
+
+Website crafting queue
+
+== 2012 ==
+
+JavaScript
+---
+select items to "craft"
+items are highlighted with color
+selected items are added to database behind the scenes via AJAX
+can do a search for items that have been flagged for crafting
+---
+
+(Have craft count button 1x, 2x, 5x [1+, but see if key modifiers (SHIFT + click) will work?])
+DEPRECATED have a crafting queue on top of each page
+DEPRECATED crafting queue should be populated automagically (live) with ajax
+
+- crafting queue should be displayed by highlighting the current row in the profession overview pages and displaying the craft number in the craft count button
+
+- should have button to go search for all auctions to buy
+- then it should display a confirmation window listing prices to buy things at
+	- it could probably pull in market price percentage (like auctioneer) from recent AH scans
+- option to remove item from queue if I don't like the price (if I don't buy materials for it, the item should not be queued in the crafting queue)
+- button to buy it all
+- log purchase
+- what if I have my own mats? 
+: see crafting mats section below for moar
+
+
+SEE HOW PRICES ARE BEING CALCULATED
+
+It seems there may be a problem with the quantity used for mean calculations. Price per unit refers to stacks, right? Currently my availability algorithm gets a count for 1x items even in stacks. This could be skewing the mean. Anyways, double check what price information you're getting from the AH scans.
+
+
+RAH (DEPRECATED) 
+! - retrieve mail after scanning what sold
+! - cancel/post auctions
+! (can't take expired or won mail apparently... but test it to make sure)
+! - gem hax (always keep two gems posted at all times. if i sell a gem, then go ahead and post another one)
+
+! rah hax (DEPRECATED)
+! - snatch list
+! - scan every 5/10 minutes for item_id get 20 results or less
+! - if items match, buy out per conditions
+! - secondary conditions if I have bought the minimum amount
+
+! I could increase scan resolution to 30 minutes instead of one hour. Probably not neccessary though. Item prices do not change that drastically... I think.
+
+So anyways... 
+
+To get crafting mats ready:
+1. Get reagents item_ids (the cheapest reagent, mind you!), reagent count for selected item id
+2. push reagent item_ids * (reagent count) to crafting queue
+DONE (((( IT would be nice to get an inventory count of how many items i have in bags - i could rsync altoholic/arkinventory savedvariable file to server and parse that to the database ))))
+3. crafting queue does an ah scan for that specific item. looks for 100 queries or less
+4. calculate logic for price per item and various stack sizes. find best price (compare to local market price data)
+5. display first result to the queue, and display more results as they are available
+6. actually, display item in grey in queue until results are ready
+7. buying should happen on character that has the relevant profession (insc = marmalde, etc)
+8. create atsw savedvariables file with queue - DONE
+9. rsync it to my wow folder - DONE
+
+crafting queue could auto suggest anything with a customizable threshold
+i.e. profit is over 25g or 50% and I've sold quite a few of these before and i don't have anymore in my inventory
+
+then in game:
+1. log in
+2. open all mail
+3. open atsw
+4. craft
+5. press tsm auto mail to send to jeeves
+6. ???
+7. profit!
+
+crafting queue should have two options: 
+buy now
+or buy later when price is super low
+
+crafting queue should be PERSISTENT
+- in other words: if I set a queue of 2 glyph of arcane barrage, then it should remain 2 indefinitely until I tell it to increase, decrease or reset
+- queue items can be active or inactive depending if items are making a % profit
+- queue should check current auctions, inventory, banks, etc. and see where available items are in relation to the threshold
+- if available items are below threshold AND the queue item is active (is above profit % threshold) then go ahead and process queue (buy items, queue ATSW, etc.)
+
+
+Rsync ATSW saved variables to server and parse it. Also create script to make ATSW saved variables and rsync it back to my computer
+Check to see what inventory addon I can use to know what items I have available in WoW
+See if I can get a list of available crafting items per profession per character from WoW. is there an addon that can do this?
+
+FU GAME SAVED VARIABLES
+
+you can use inventory.json to scan available items in my inventory/bank! can scan all characters if I want
+
+
+Current auctions updating algorithm
+- We get a list of items I have in inventory, mail, and auction house
+- Question: Does the inventory.json display items in mail that have expired from the auction house? Check.
+- Inventory.json can scan at regular intervals
+- Active auctions can scan ONLY when I am not logged in
+- I can check auctions that sold via sold.php and then cross them off from the auctive auctions list
+- What about expired auctions? Can I see all of them from the mail.json export? Will inventory.json export tell me if an expired item is in the mail? I could cross it off then. Active auctions will be a persistent data then, and reliable.
+
+
+Sales page summary
+- Total sales overall
+- Total sales value overall
+- Total sales today
+- Total gold today
+- Breakdown of sales and volume over a 7 day period
+- Average sales per day over last week period
+- Item breakdown per categories (how many and what sold - i.e. how many glyphs/gems sold, avg price, etc.)
+- Search for specific item/s (multiple item search)
+- Search for wildcard option
+- Filter per day list
+
+
+ITEM INFORMATION
+- Market price
+- Std dev
+- material costs
+- reagent list
+- who my competitors are
+- when my competitors undercut me
+- best time to sell these items
+- 7 day chart overview of market price + mat cost
+- 7 day chart overview of availability + what I sold
+- wowhead link
+- tuj link
+
+
+
+Main page summary 
+- total gold made
+- gold made today/yesterday
+- auctions posted today/yesterday
+- number of current auctions selling
+- average daily gold (remove outer bounds)
+- average auctions posted per day
+- top 5/10 most profitable auctions in the last week
+- top 10-15 "recommended" profitable auctions to make
+- charts to show progress of the above stats?
+- statistics regarding scan log, database sizes, system performance, errors, etc.
+
+add new items
+43350 - hunter
+42464 - warlock
+

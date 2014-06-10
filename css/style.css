@@ -1,0 +1,467 @@
+@charset "UTF-8";
+/* 
+	===============================
+	MAIN CUSTOM STYLE SHEET
+	AHPWN
+	ANDREW BREJA - 2011
+	===============================
+*/
+	
+/* -- RESET --
+
+This will reset all styles to a default none/null values so that they do not inherit values from Narnia. */
+
+body,div,dl,dt,dd,ul,ol,li,pre,form,a,fieldset,input,blockquote,th,td{margin:0;padding:0;}
+ol,ul {list-style:none;}
+
+/* Also makes sure that there are no borders around images. */
+img {
+	border-style: none;
+}
+
+
+/* -- LINKS --
+
+Formats the default a href links in the website. */
+
+a:link {
+	color: #dadada;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #dadada;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #e3778a; /* dark red */
+	text-decoration: none;
+}
+
+a:active {
+	color: #8e2700; /* light red */
+	text-decoration: none;
+}
+
+
+/* -- BODY --
+
+Formats the <html>,<body> settings of the website. Also configures the background and main font. Also includes settings and #container to push the footer to the bottom. */
+
+html,
+body {
+	height: 100%;
+	color: #dadada;
+	background: #0e0e0e;
+	font: 12px arial,verdana,sans-serif;
+}
+
+
+.spacer { /* generic spacer */
+	float: left;
+	padding-top: 60px;
+	height: 15px;
+}
+
+
+/* -- DYNAMIC LAYOUT --
+
+The wrap used to position content dynamically so it grows along with the width of the browser. */
+
+.wrap {
+	margin-left: auto;
+    margin-right: auto;
+	width: 960px;
+	padding: 0px 0px 0px 0px;
+}	
+
+
+/* -- HEADER --
+
+Formatting options for the header. */
+
+#header { /* contains the logo and navigation*/
+	height: 78px;
+	width: 100%;
+}
+
+
+/* -- LOGO --
+
+Formatting options for the logo. */
+
+#logo { /* logo container box */
+	float: left;
+	width: 240px;
+	padding-top: 25px;
+}
+
+#logo:hover {
+	padding-top: 20px;
+	border-top: 5px solid #e62963;
+}
+
+
+/* -- NAVIGATION -- 
+
+Container boxes for the navigation link images. */
+
+.nav {
+	float: left;
+	width: 90px;
+	padding-top: 19px;
+}
+
+.nav_link {
+	float: right;
+}
+
+.nav:hover {
+	padding-top:  14px;
+	border-top:  5px solid #e62963;
+}
+
+.nav_active_container {
+	float: left;
+	width: 90px;
+	padding-top: 0px;
+}
+
+.nav_active {
+	padding-top: 14px;
+	border-top: 5px solid #e62963;
+}
+
+/* -- DIVIDER LINES --
+
+These graphic lines will divide the page very nicely. Yeaaaa. */
+
+#line1 { 
+	width: 100%;
+	border-bottom: 1px solid #521124;
+	padding-top: 80px;
+}
+
+#line2 {
+	width: 100%;
+	border-top: 5px solid #e62963;
+	padding-bottom: 80px;
+}
+
+#line3 {
+	width: 100%;
+	border-top: 2px solid #e62963;
+	padding-bottom: 10px;
+}
+
+.line { 
+	width: 100%;
+	float: left;
+	border-bottom: 1px solid #521124;
+	padding-top: 50px;
+}
+
+#foot {
+	float: left;
+	padding-top: 5px;
+	font-size: 12px;
+	color: #444;
+}
+
+#foot p {
+	color: #333;
+	font-size: 10px;
+}
+
+
+/* -- FRONT PAGE CONTENT -- 
+
+Formatting options for the content displayed on the front page (index.php). */
+
+#summary { /* Formats the summary information container */
+	color: #535353;
+	font-size: 18px;
+	line-height: 5px;
+	padding:  10px 0 10px 0;
+}
+
+.number_highlight { /* Highlights numbers to stand out versus darker text. Used in #summary*/
+	color: #d5d5d5;
+}
+
+.gold { /* Highlights gold currency */
+	color: #ffe400;
+}
+
+.silver { /* Highlights silver currency */
+	color: #646464;
+}
+
+.copper { /*Highlights copper currency */
+	color:  #b96929;
+}
+
+.green {
+	color: #00ff36;
+}
+
+.yellow {
+	color: #fff000;
+}
+
+.red {
+	color: #f90000;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+
+/* -- TABLES --
+
+Styles the tables used for content. */
+
+#t_container {
+	width: 100%;
+	font-size: 16px;
+}
+
+#t_header {
+	color: #e62963;
+}
+
+#t_header_underline {
+	float: left;
+	width: 100%;
+	padding: 5px 0 0 0;
+	border-bottom: 2px solid #e62963;
+}
+
+#t_body {
+	float: left;
+	padding: 8px 0 0 0;
+	color: #dadada;
+	
+}
+
+.show_odd {
+	float: left;
+	background-color: #0a0a0a;
+}
+
+.show_odd:hover {
+	float: left;
+	background-color: #111;
+}
+
+.show:hover {
+	float: left;
+	background-color: #111;
+}
+
+.item {
+	float: left;
+	width: 420px;
+	padding: 12px 0 12px 20px;
+}
+
+.sold {
+	float: left;
+	text-align: right;
+	width: 60px;
+	padding: 12px 0 12px 0;
+}
+
+.available {
+	float: left;
+	text-align: right;
+	width: 140px;
+	padding: 12px 0 12px 0;
+}
+
+.market_price {
+	float: left;
+	text-align: right;
+	width: 180px;
+	padding: 12px 0 12px 0;
+}
+
+.profit {
+	float: left;
+	text-align: right;
+	width: 120px;
+	padding: 12px 20px 12px 0;
+}
+
+.hidden {
+	font-size: 14px;
+	color: #555;
+}
+
+.hidden_line {
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #222;
+}
+
+#viz {
+	float: left;
+	width: 920px;
+	height: 150px;
+}
+
+.table_spacer {
+	float: left;
+	padding: 20px 0 20px 0;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+thead {
+	font-size: 16px;
+	color: #e62963;
+	border-bottom: 2px solid #e62963;
+}
+
+th {
+	padding: 12px 20px 12px 20px;
+}
+
+td {
+	font-size: 16px;
+	color: dadada;
+	padding: 12px 20px 12px 20px;
+}
+
+
+.hide {
+	display: none;
+}
+
+.t_label {
+	width: 100%;
+	float: left;
+	padding: 30px 0 20px 20px;
+	color: #dadada;
+}
+
+
+
+/* -- SECONDARY PAGE CONTENT --
+
+Formatting options for the content displayed on the secondary pages. */
+
+#left_nav {
+	float: left;
+	width: 170px;
+	padding: 15px 0px 0px 0px;
+}
+
+#left_nav ul {
+	line-height: 35px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000;
+}
+	
+#right_section {
+	float: left;
+	width: 650px;
+	padding: 0px 0px 0px 20px;
+}
+
+
+/* -- SECURE PAGE FORMATTING -- 
+
+This section describes some of the styles that are to be used on the /secure/ section of the site. */
+
+.giant_text {
+	font-size: 24px;
+	color: #999;
+}
+
+.giant_emp {
+	font-size: 26px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.name_text {
+	font-size: 14px;
+	font-weight: bold;
+	color: #fe436f;
+}
+
+.month_text {
+	font-size: 18px;
+}
+
+.date_text {
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.small_text {
+	color: #777;
+	font-size: 10px;
+}
+
+
+/* -- FOOTER --
+
+The footer displayed at the bottom of the page has its formatting options here. */
+
+#footer {
+	position: relative;
+	margin-top: -100px;
+	width: 100%;
+	height: 100px;
+	clear: both;
+	padding: 10px 0px;
+	background-color: #0a0a0a;
+	color: white;
+	line-height: 25px;
+}
+
+.footer_section { /* used to contain the "site map" links in the footer */
+	float: left;
+	width: 150px;
+}
+
+.footer_section_right { /* used for the "Get In Touch" section */
+	float: right;
+	width: 160px;
+}
+
+.footer_section p {
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 18px;
+	color: #CCCCCC;
+}
+
+.footer_big { /* big white text */
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.footer_grey { /* big grey text */
+	color: #666;
+	font-size: 10px;
+}
+
+
+/*
+______ _         
+|  ___(_)        
+| |_   _ _ __    
+|  _| | | '_ \   
+| |   | | | | |_ 
+\_|   |_|_| |_(_)
+
+*/
